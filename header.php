@@ -8,155 +8,148 @@
 </head>
 
 <body>
-	<header id="header" class="navbar-fixed-top header" role="banner" style="background-color: black">
+	<header id="header" class="navbar-fixed-top header" role="banner" style="background-color: black; opacity: 0.8">
 		<div class="container-fluid">
 
-				<nav class="collapse navbar-collapse clearfix" role="navigation" style="margin-bottom: 15px;">
-					<div class="container-fluid">
-						<div class="row">
-							<div class="col-md-12">
-								<div class="navbar-left">
-									<ul class="nav navbar-nav navbar-left">
-										<ul class="nav navbar-nav navbar-left">
-											<li class="">
-												<a href="#" style=" color: white;">CALL US <strong>02030868984</strong></a>
-											</li>
-											<li class="">
-												<a href="cv-upload.php"  style=" color: white;">Get A Quote</a>
-											</li>
-											<li class="">
-												<a href="cv-upload.php"  style=" color: white;">Email Us</a>
-											</li>
-										</ul>
-									</ul>
-								</div>
-								<div class="nav-top-content navbar-right">
-									<ul class="nav navbar-nav navbar-left">
-										<ul class="nav navbar-nav navbar-left">
-											<li class="">
-												<a href="#" class="btn btn-primary cd-btn" style="padding-right: 29px; margin-top: 10px;
-												margin-left: -65px; color: white;">Employer</a>
-											</li>
-											<li class="">
-												<a href="#" class="btn btn-primary cd-btn" style="padding-right: 27px; margin-top: 10px;
-												margin-left: 10px; color: white;">Job Seeker</a>
-											</li>
-										</ul>
-									</ul>
-
+			<nav class="collapse navbar-collapse clearfix" role="navigation" style="margin-bottom: 15px;">
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-md-12">
+							<ul class="nav navbar-nav navbar-left nav-top-content" style="margin-left: 15%;">
+								<li class="">
+									<a href="#" style=" color: white;">CALL US <strong>02030868984</strong></a>
+								</li>
+								<li class="">
+									<a href="cv-upload.php"  style=" color: white;">Get A Quote</a>
+								</li>
+								<li class="">
+									<a href="cv-upload.php"  style=" color: white;">Email Us</a>
+								</li>
+							</ul>
+							<div class="nav-top-content navbar-right" style="margin-right: 5%;">
+								<ul class="nav navbar-nav">
+									<li class="">
+										<a href="#" class="btn btn-primary cd-btn" style="padding-right: 29px; margin-top: 10px;
+										margin-left: -65px; color: white;">Employer</a>
+									</li>
+									<li class="">
+										<a href="#" class="btn btn-primary cd-btn" style="padding-right: 27px; margin-top: 10px;
+										margin-left: 10px; color: white;">Job Seeker</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+						<div class="col-md-12">
+							<!-- Logo start -->
+							<div class="navbar-header">
+								<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+									<span class="sr-only">Toggle navigation</span>
+									<span class="icon-bar"></span>
+									<span class="icon-bar"></span>
+									<span class="icon-bar"></span>
+								</button>
+								<div class="navbar-brand navbar-bg">
+									<a href="index.php">
+										<img class="img-responsive" src="images/logo.png" alt="logo">
+									</a>
 								</div>
 							</div>
-							<div class="col-md-12">
-								<!-- Logo start -->
-								<div class="navbar-header">
-									<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-										<span class="sr-only">Toggle navigation</span>
-										<span class="icon-bar"></span>
-										<span class="icon-bar"></span>
-										<span class="icon-bar"></span>
-									</button>
-									<div class="navbar-brand navbar-bg">
-										<a href="index.php">
-											<img class="img-responsive" src="images/logo.png" alt="logo">
-										</a>
-									</div>
-								</div>
-								<!--/ Logo end -->
-								<ul class="nav navbar-nav navbar-left nav-mid-content">
-									<li class="active"><a href="index.php">Home </a></li>
-									<li><a href="about2.php">About Us</a></li>
-									<li><a href="why-us.php">Why Us</a></li>
-									<li><a href="career.php">Jobs</a></li>
-									<li class="dropdown">
-										<a href="#" class="dropdown-toggle">Services <i class="fa fa-angle-down"></i> </a>
-										<div class="dropdown-menu mega-menu" style="background-color: rgba(81, 40, 79, 0.5); border: 1px solid rgba(81, 40, 79, 0.5); border-radius: 20px">
-											<div class="row">
-												<div class="col-sm-4">
-													<img src="images/catering/2705385-min.jpg" class="img-responsive">
-													<a href="service2.php">
-														<h4>CATERING</h4>
-													</a>
-													<img src="images/light-industrial-staff/welder-673559.jpg" class="img-responsive">
-													<a href="service4.php">
-														<h4>Light Industrial Staff</h4>
-													</a>
+							<!--/ Logo end -->
+							<ul class="nav navbar-nav navbar-left nav-mid-content">
+								<li class="active"><a href="index.php">Home </a></li>
+								<li><a href="about2.php">About Us</a></li>
+								<li><a href="why-us.php">Why Us</a></li>
+								<li><a href="career.php">Jobs</a></li>
+								<li class="dropdown">
+									<a href="#" class="dropdown-toggle">Services <i class="fa fa-angle-down"></i> </a>
+									<div class="dropdown-menu mega-menu" style="background-color: rgba(81, 40, 79, 0.5); border: 1px solid rgba(81, 40, 79, 0.5); border-radius: 20px">
+										<div class="row">
+											<div class="col-sm-4">
+												<img src="images/catering/2705385-min.jpg" class="img-responsive">
+												<a href="service2.php">
+													<h4>CATERING</h4>
+												</a>
+												<img src="images/light-industrial-staff/welder-673559.jpg" class="img-responsive">
+												<a href="service4.php">
+													<h4>Light Industrial Staff</h4>
+												</a>
 
-													<img src="images/construction/Construction-Laborers.jpg" class="img-responsive">
-													<a href="service8.php">
-														<h4>Construction</h4>
-													</a>
+												<img src="images/construction/Construction-Laborers.jpg" class="img-responsive">
+												<a href="service8.php">
+													<h4>Construction</h4>
+												</a>
 
-												</div>
-												<div class="col-sm-4">
-													<img src="images/events/events2.jpg" alt="Events" class="img-responsive">
-													<a href="service9.php">
-														<h4>Events & Promotions</h4>
-													</a>
+											</div>
+											<div class="col-sm-4">
+												<img src="images/events/events2.jpg" alt="Events" class="img-responsive">
+												<a href="service9.php">
+													<h4>Events & Promotions</h4>
+												</a>
 
-													<img src="images/it-and-tech/tech1.jpg" class="img-responsive">
-													<a href="service10.php">
-														<h4>IT & Telecom</h4>
-													</a>
+												<img src="images/it-and-tech/tech1.jpg" class="img-responsive">
+												<a href="service10.php">
+													<h4>IT & Telecom</h4>
+												</a>
 
-												</div>
-												<div class="col-sm-4">
-													<img src="images/hospitality/hospitality1.jpg" class="img-responsive">
-													<a href="service12.php">
-														<h4>Hospitality</h4>
-													</a>
-													<img src="images/sales-and-retail/sales1.jpg" class="img-responsive">
-													<a href="service11.php">
-														<h4>Sales & Retail</h4>
-													</a>
-												</div>
+											</div>
+											<div class="col-sm-4">
+												<img src="images/hospitality/hospitality1.jpg" class="img-responsive">
+												<a href="service12.php">
+													<h4>Hospitality</h4>
+												</a>
+												<img src="images/sales-and-retail/sales1.jpg" class="img-responsive">
+												<a href="service11.php">
+													<h4>Sales & Retail</h4>
+												</a>
 											</div>
 										</div>
-									</li>
+									</div>
+								</li>
 
 
-									<li class="dropdown">
-										<a href="#" class="dropdown-toggle" data-toggle="dropdown">Blog <i class="fa fa-angle-down"></i></a>
-										<div class="dropdown-menu" style="margin-right: 130px;margin-top: -30px;">
-											<ul>
+								<li class="dropdown">
+									<a href="#" class="dropdown-toggle" data-toggle="dropdown">Blog <i class="fa fa-angle-down"></i></a>
+									<div class="dropdown-menu" style="margin-right: 130px;margin-top: -30px;">
+										<ul>
 
-												<li><a href="blog-item.php">How to achieve your bonus?</a></li>
-											</ul>
-										</div>
-									</li>
-									<li><a href="testimonial.php">Testimonials</a></li>
-									<li><a href="contact.php">Contact</a></li>
-									<li>
-										<a href="book-a-temp.php">Book A Temp</a>
-									</li>
-									<li>
-										<a href="location.php">Location</a>
-									</li>
+											<li><a href="blog-item.php">How to achieve your bonus?</a></li>
+										</ul>
+									</div>
+								</li>
+								<li><a href="testimonial.php">Testimonials</a></li>
+								<li><a href="contact.php">Contact</a></li>
+								<li>
+									<a href="book-a-temp.php">Book A Temp</a>
+								</li>
+								<li>
+									<a href="location.php">Location</a>
+								</li>
 
+							</ul>
+						</div>
+						<div class="col-md-12">
+							<ul class="nav navbar-nav navbar-left" style=" margin-left: 15%">
+								<li class="">
+									<a href="cv-upload.php" class="btn btn-primary cd-btn" style="width: 350px; margin-top: -10px;
+									color: white;">CV Upload</a>
+								</li>
+								<li class="">
+									<a href="post-a-job.php" class="btn btn-primary cd-btn" style="width: 350px; margin-top: -10px;
+									margin-left: 10px; color: white;">Post A Job</a>
+								</li>
+							</ul>
+
+							<ul class="nav navbar-nav navbar-right" style="margin-right: 5%;">
+								<li class="">
+									<a href="#" class="btn btn-primary cd-btn" style="width: 330px; margin-top: -10px;
+									margin-left: -50px; color: white;" data-toggle="modal" data-target="#modalRegisterLogin">Register/Login</a>
 								</ul>
-							</div>
-							<div class="col-md-12">
-								<ul class="nav navbar-nav navbar-left">
-									<li class="">
-										<a href="cv-upload.php" class="btn btn-primary cd-btn" style="width: 350px; margin-top: -10px;
-										margin-left: -65px; color: white;">CV Upload</a>
-									</li>
-									<li class="">
-										<a href="post-a-job.php" class="btn btn-primary cd-btn" style="width: 350px; margin-top: -10px;
-										margin-left: 10px; color: white;">Post A Job</a>
-									</li>
-								</ul>
-
-								<ul class="nav navbar-nav navbar-right">
-									<li class="">
-										<a href="#" class="btn btn-primary cd-btn" style="width: 330px; margin-top: -10px;
-										margin-left: -50px; color: white;" data-toggle="modal" data-target="#modalRegisterLogin">Register/Login</a>
-									</ul>
-								</div>
 							</div>
 						</div>
 					</div>
-				</nav>
-				<!--/ Navigation end -->
+				</div>
+			</nav>
+			<!--/ Navigation end -->
 			<!--/ Row end -->
 		</div>
 		<!--/ Container end -->

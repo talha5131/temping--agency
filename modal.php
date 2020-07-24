@@ -11,7 +11,8 @@
 	<link rel="stylesheet" href="css/richtext.min.css">
 </head>
 <body>
-	<button type="button" class="btn btn-success zoom" style="background-color: #51284f;border: 1px solid #51284f" data-toggle="modal" data-target="#modalPoll-1"><i class="fa fa-question-circle" style="font-size: 50px; color: white" aria-hidden="true"></i></button>
+	<button type="button" class="btn btn-success zoom" style="background-color: #51284f;border: 1px solid #51284f" data-toggle="modal" data-target="#modalPoll-1"><span style="font-size: 25px; color: white">ASK US </span><i class="fa fa-question-circle" style="font-size: 25px; color: white" aria-hidden="true"></i></button>
+	<!-- <i class="fa fa-question-circle" style="font-size: 50px; color: white" aria-hidden="true"></i> -->
 
 	<!-- Modal: modalPoll -->
 	<div class="modal fade right" id="modalPoll-1" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
