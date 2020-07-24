@@ -5,7 +5,7 @@
 	<!-- Basic Page Needs
 		================================================== -->
 		<meta charset="utf-8">
-		<title>BizCraft - Responsive Html5 Template</title>
+		<title>Jobs</title>
 		<meta name="description" content="">	
 		<meta name="author" content="">
 
@@ -54,10 +54,12 @@
 </head>
 
 <body>
+	<!-- Modal Import -->
+	<?php include('modal.php'); ?>
 	<div class="body-inner">
 
 		<!-- Header start -->
-			<?php include('header.php'); ?>
+		<?php include('header.php'); ?>
 		<!--/ Header end -->
 
 		<div id="banner-area">
@@ -81,8 +83,62 @@
 		<section id="main-container">
 			<div class="container">
 				<div class="row">
-					<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
+						<div class="row">
+							<div class="col-md-4">
+								<div class="well">
+									<img src="images/construction/Construction-Laborers.jpg" class="img-responsive">
+									<h4><a href="#">Accountant – US Department of Veterans Affairs – Sheridan, WY</a></h4>
+									<p>Applicants wishing to receive credit for such experience must indicate clearly the nature of their duties and responsibilities in each position and the number… $43,251 – $83,210 a year</p>
+									<button class="btn btn-primary">Read More</button>
+								</div>
+							</div>
+							<div class="col-md-4">
+								<div class="well">
+									<img src="images/pictures/hub-05-29-jobinterviewlies-Hero-1200x900.jpg" class="img-responsive">
+									<h4><a href="#">Accountant – US Department of Veterans Affairs – Sheridan, WY</a></h4>
+									<p>Applicants wishing to receive credit for such experience must indicate clearly the nature of their duties and responsibilities in each position and the number… $43,251 – $83,210 a year</p>
+									<button class="btn btn-primary">Read More</button>
+								</div>
+							</div>
+							<div class="col-md-4">
+								<div class="well">
+									<img src="images/construction/Construction-Laborers.jpg" class="img-responsive">
+									<h4><a href="#">Accountant – US Department of Veterans Affairs – Sheridan, WY</a></h4>
+									<p>Applicants wishing to receive credit for such experience must indicate clearly the nature of their duties and responsibilities in each position and the number… $43,251 – $83,210 a year</p>
+									<button class="btn btn-primary">Read More</button>
+								</div>
+							</div>
+						</div>
+
+						<div class="row">
+							<div class="col-md-4">
+								<div class="well">
+									<img src="images/pictures/hub-05-29-jobinterviewlies-Hero-1200x900.jpg" class="img-responsive">
+									<h4><a href="#">Accountant – US Department of Veterans Affairs – Sheridan, WY</a></h4>
+									<p>Applicants wishing to receive credit for such experience must indicate clearly the nature of their duties and responsibilities in each position and the number… $43,251 – $83,210 a year</p>
+									<button class="btn btn-primary">Read More</button>
+								</div>
+							</div>
+							<div class="col-md-4">
+								<div class="well">
+									<img src="images/construction/Construction-Laborers.jpg" class="img-responsive">
+									<h4><a href="#">Accountant – US Department of Veterans Affairs – Sheridan, WY</a></h4>
+									<p>Applicants wishing to receive credit for such experience must indicate clearly the nature of their duties and responsibilities in each position and the number… $43,251 – $83,210 a year</p>
+									<button class="btn btn-primary">Read More</button>
+								</div>
+							</div>
+							<div class="col-md-4">
+								<div class="well">
+									<img src="images/construction/Construction-Laborers.jpg" class="img-responsive">
+									<h4><a href="#">Accountant – US Department of Veterans Affairs – Sheridan, WY</a></h4>
+									<p>Applicants wishing to receive credit for such experience must indicate clearly the nature of their duties and responsibilities in each position and the number… $43,251 – $83,210 a year</p>
+									<button class="btn btn-primary">Read More</button>
+								</div>
+							</div>
+						</div>
+<!-- 
 						<h3 class="title-border">Senior Manager</h3>
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo, natus voluptatibus adipisci porro magni dolore eos eius ducimus corporis quos perspiciatis quis iste, vitae autem libero ullam omnis cupiditate quam.</p>
 
@@ -105,9 +161,9 @@
 										</ul>
 									</div>
 								</div>
-							</div><!--/ Panel 1 end-->
+							</div> --><!--/ Panel 1 end-->
 
-							<div class="panel panel-default">
+<!-- 							<div class="panel panel-default">
 								<div class="panel-heading">
 									<h4 class="panel-title">
 										<a data-toggle="collapse" class="collapsed" data-parent="#accordionA, #accordionB" href="#collapseTwo"> Job Responsibilities</a>
@@ -125,9 +181,9 @@
 										</ul>
 									</div>
 								</div>
-							</div><!--/ Panel 2 end-->
+							</div> --><!--/ Panel 2 end-->
 
-
+<!-- 
 							<div class="panel panel-default">
 								<div class="panel-heading">
 									<h4 class="panel-title">
@@ -144,17 +200,17 @@
 										</ul>
 									</div>
 								</div>
-							</div><!--/ Panel 3 end-->
+							</div> --><!--/ Panel 3 end-->
 
-							<div class="gap-20"></div>
+<!-- 							<div class="gap-20"></div>
 
 							<p><a href="#" class="btn btn-primary solid">Apply Now <i class="fa fa-long-arrow-right"></i></a></p>
 
-						</div><!--/ Accordion end -->
+						</div> --><!--/ Accordion end -->
 
 						<!--/ 1st career end -->
 
-						<div class="gap-40"></div>
+<!-- 						<div class="gap-40"></div>
 
 						<h3 class="title-border">Assistent Manager (P&amp;L)</h3>
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo, natus voluptatibus adipisci porro magni dolore eos eius ducimus corporis quos perspiciatis quis iste, vitae autem libero ullam omnis cupiditate quam.</p>
@@ -178,9 +234,9 @@
 										</ul>
 									</div>
 								</div>
-							</div><!--/ Panel 1 end-->
+							</div> --><!--/ Panel 1 end-->
 
-							<div class="panel panel-default">
+<!-- 							<div class="panel panel-default">
 								<div class="panel-heading">
 									<h4 class="panel-title">
 										<a data-toggle="collapse" class="collapsed" data-parent="#accordionA, #accordionB" href="#collapseB"> Job Responsibilities</a>
@@ -198,10 +254,10 @@
 										</ul>
 									</div>
 								</div>
-							</div><!--/ Panel 2 end-->
+							</div> --><!--/ Panel 2 end-->
 
 
-							<div class="panel panel-default">
+<!-- 							<div class="panel panel-default">
 								<div class="panel-heading">
 									<h4 class="panel-title">
 										<a data-toggle="collapse" class="collapsed" data-parent="#accordionA, #accordionB" href="#collapseC"> What’s in it for you?</a>
@@ -217,17 +273,17 @@
 										</ul>
 									</div>
 								</div>
-							</div><!--/ Panel 3 end-->
-
+							</div> --><!--/ Panel 3 end-->
+<!-- 
 							<div class="gap-20"></div>
 
 							<p><a href="#" class="btn btn-primary solid">Apply Now <i class="fa fa-long-arrow-right"></i></a></p>
 
-						</div><!--/ Accordion end -->
+						</div> --><!--/ Accordion end -->
 
 					</div><!--/ Content col end -->
 
-					<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 						<div class="sidebar sidebar-right">
 							<!-- category start -->
 							<div class="widget widget-categories">
@@ -422,6 +478,7 @@
 		<script type="text/javascript" src="js/waypoints.min.js"></script>
 		<!-- Template custom -->
 		<script type="text/javascript" src="js/custom.js"></script>
+
 	</div><!-- Body inner end -->
 </body>
 </html>

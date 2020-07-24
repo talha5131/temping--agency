@@ -5,7 +5,7 @@
 	<!-- Basic Page Needs
 		================================================== -->
 		<meta charset="utf-8">
-		<title>  How to achieve your Bonus?</title>
+		<title>How to achieve your Bonus?</title>
 		<meta name="description" content="">	
 		<meta name="author" content="">
 
@@ -54,10 +54,12 @@
 </head>
 
 <body>
+	<!-- Modal Import -->
+	<?php include('modal.php'); ?>
 	<div class="body-inner">
 
 		<!-- Header start -->
-			<?php include('header.php'); ?>
+		<?php include('header.php'); ?>
 		<!--/ Header end -->
 
 		<div id="banner-area">

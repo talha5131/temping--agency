@@ -5,7 +5,7 @@
 	<!-- Basic Page Needs
 		================================================== -->
 		<meta charset="utf-8">
-		<title>BizCraft - Responsive Html5 Template</title>
+		<title>Contact Us</title>
 		<meta name="description" content="">	
 		<meta name="author" content="">
 
@@ -45,6 +45,10 @@
 		<!-- Style Swicther -->
 		<link id="style-switch" href="css/presets/preset3.css" media="screen" rel="stylesheet" type="text/css">
 
+		<link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+		<link rel="stylesheet" href="css/richtext.min.css">
+
 		<!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
     <!--[if lt IE 9]>
       <script src="js/html5shiv.js"></script>
@@ -57,7 +61,7 @@
 	<div class="body-inner">
 
 		<!-- Header start -->
-			<?php include('header.php'); ?>
+		<?php include('header.php'); ?>
 		<!--/ Header end -->
 
 		<div id="banner-area">
@@ -86,7 +90,7 @@
 
 				<div class="row">
 					<div class="col-md-7">
-						<form id="contact-form" action="contact-form.php" method="post" role="form">
+						<form id="contact-form" role="form">
 							<div class="row">
 								<div class="col-md-4">
 									<div class="form-group">
@@ -111,7 +115,7 @@
 							</div>
 							<div class="form-group">
 								<label>Message</label>
-								<textarea class="form-control" name="message" id="message" placeholder="" rows="10" required></textarea>
+								<textarea class="form-control content" name="message" id="message" rows="10" required></textarea>
 							</div>
 							<div class="text-right"><br>
 								<button class="btn btn-primary solid blank" type="submit">Send Message</button> 
@@ -328,6 +332,14 @@
 		<!-- Doc https://developers.google.com/maps/documentation/javascript/get-api-key -->
 		<script type="text/javascript" src="js/gmap3.js"></script>
 
+		<!-- jQuery Validation -->
+
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.2/jquery.validate.min.js"></script>
+
+		<!-- jQuery Minimalist Editor -->
+
+		<script type="text/javascript" src="js/jquery.richtext.min.js"></script>
+
 		<script type="text/javascript">
 
 			$(function () {
@@ -345,7 +357,29 @@
 					};
 				});
 			});
+			$('.content').richText();
 
+			// Contact Us Form Validation
+
+			$(document).ready(function(){
+				$('#contact-form').validate({
+					rules: {
+						name: {
+							required: true,
+						},
+						email: {
+							required: true,
+							email: true
+						},
+						subject: {
+							required: true,
+						},
+						message: {
+							required: true,
+						}
+					}
+				});
+			});
 		</script>
 
 		

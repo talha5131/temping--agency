@@ -109,12 +109,13 @@
 
 
 <body>
-
+	<!-- Modal Import -->
+	<?php include('modal.php'); ?>
 	<div class="body-inner">
 
 
 		<!-- Header start -->
-			<?php include('header.php'); ?>
+		<?php include('header.php'); ?>
 		<!--/ Header end -->
 
 

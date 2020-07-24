@@ -109,12 +109,13 @@
 
 
 <body>
-
+	<!-- Modal Import -->
+	<?php include('modal.php'); ?>
 	<div class="body-inner">
 
 
 		<!-- Header start -->
-			<?php include('header.php'); ?>
+		<?php include('header.php'); ?>
 		<!--/ Header end -->
 
 		<div id="banner-area">
@@ -187,7 +188,7 @@
 
 						<br>
 
-						<p>There are many positions that could arise in an industrial setting. Workers Direct will be able to fill any of them on short notice – from cleaning staff to fork lifters etc. We have an extensive database of candidates who will be able to fill these positions. They are experienced, have the necessary qualifications and are ready, willing and able to work as soon as the job spec comes in. If you’re not sure about which requirements the candidate should meet in order to do the specific job, our experienced consultants will help you put together the necessary job description. They will also help you with any other requirements that you may have regarding the position or other positions that you may have in mind.  </p>
+						<p>There are many positions that could arise in an industrial setting. Temping Agency will be able to fill any of them on short notice – from cleaning staff to fork lifters etc. We have an extensive database of candidates who will be able to fill these positions. They are experienced, have the necessary qualifications and are ready, willing and able to work as soon as the job spec comes in. If you’re not sure about which requirements the candidate should meet in order to do the specific job, our experienced consultants will help you put together the necessary job description. They will also help you with any other requirements that you may have regarding the position or other positions that you may have in mind.  </p>
 
 						<br>
 

@@ -684,8 +684,12 @@ blockquote {
 
 .navbar-brand img{
 	/*float: right;*/
-	padding: 0 15px;
+	/*padding: 0 15px 0 5px;*/
+	margin-top: 70px;
+}
 
+.nav-mid-content{
+	margin-left: 80%;
 }
 
 
@@ -3389,7 +3393,7 @@ a.close-styler{
 }
 .mega-menu img{
 	width: 325px;
-	height: 175px;
+	height: 125px;
 	border: 1 px solid rgba(81, 40, 79, 0.5);
 	border-radius: 15px;
 }
@@ -3419,7 +3423,7 @@ body {
 }
 
 .navbar-left{
-	margin-left: 15%
+	margin-left: 8%
 }
 
 /*.nav-button{
@@ -3443,4 +3447,37 @@ body {
 		right: -250px;
 		left: auto;
 	}
+}
+
+/*Post A Job Form*/
+form label {
+	color: #51284f;
+}
+
+.zoom {
+  /*padding: 50px;*/
+  background-color: green;
+  transition: transform .2s;
+/*  width: 200px;
+  height: 200px;*/
+  margin: 0 auto;
+  border-radius: 10%;
+  position: fixed;
+/*  top: 1000px;
+  left: 1270px;*/
+  right: 25px;
+  top: 70vh; 
+  z-index: 10;
+}
+
+.zoom:hover {
+  transform: scale(1.5); 
+}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus {
+    color: #fff;
+    background-color: #51284f;
+}
+.error{
+	color: red;
 }
