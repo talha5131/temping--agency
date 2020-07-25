@@ -208,16 +208,11 @@
 
 
 
-										<img class="mySlides" src="images/slider/0.jpg" style="width:100%">
+										<img class="mySlides" src="images/slider3/working-1024382.jpg" style="width:100%">
 
-										<img class="mySlides" src="images/slider/00.jpg" style="width:100%">
+										<img class="mySlides" src="images/slider3/excavators-1174428.jpg" style="width:100%">
 
-										<img class="mySlides" src="images/slider/000.jpg" style="width:100%">
-
-										<img class="mySlides" src="images/slider/0000.jpg" style="width:100%">
-
-										<img class="mySlides" src="images/slider/00000.jpg" style="width:100%">
-
+										<img class="mySlides" src="images/slider3/assembling-2739251.jpg" style="width:100%">
 
 
 

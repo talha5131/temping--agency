@@ -12,7 +12,7 @@
 
 	<meta charset="utf-8">
 
-	<title>Temping Agency</title>
+	<title>Why Us</title>
 
 	<meta name="description" content="">
 

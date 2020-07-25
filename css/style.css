@@ -3384,7 +3384,7 @@ a.close-styler{
 	overflow: hidden;
 	padding: 30px;
 	position: absolute;
-	right: -200px;
+	left: -400px;
 	height: auto;
 	max-height: 580px;
 	overflow-x: hidden;
@@ -3423,10 +3423,10 @@ body {
 }
 
 .col-md-12 .nav-mid-content {
-	margin-left: 14%;
+	margin-left: 11.5%;
 }
 ul.nav-mid-content li{
-	margin-left: 4px;
+	margin-left: 17px;
 }
 
 .header-solid ul.navbar-nav > li:hover > a, .header-solid ul.navbar-nav > li.active > a {
@@ -3470,4 +3470,16 @@ z-index: 10;
 }
 .error{
 	color: red;
+}
+
+.footer-ul li{
+	list-style-type: none;
+}
+
+.footer-ul a{
+	color: white;
+}
+
+.footer-ul a:hover{
+	color: #51284f;
 }

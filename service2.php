@@ -12,7 +12,7 @@
 
 		<meta charset="utf-8">
 
-		<title>Catering Staff</title>
+		<title>Catering</title>
 
 		<meta name="description" content="">	
 
@@ -205,11 +205,11 @@
 
 
 
-										<img class="mySlides" src="images/catering/376039-PBFPR3-487.jpg" style="width:100%">
+										<img class="mySlides" src="images/slider3/66946269_s.jpg" style="width:100%">
 
-										<img class="mySlides" src="images/catering/2705385.jpg" style="width:100%">
+										<img class="mySlides" src="images/slider3/wedding-1937022.jpg" style="width:100%">
 
-										<img class="mySlides" src="images/catering/images-1.jpg" style="width:100%">					   
+										<img class="mySlides" src="images/slider3/hier catering.jpg" style="width:100%">					   
 
 
 									</div>

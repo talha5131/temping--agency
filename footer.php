@@ -20,7 +20,7 @@
 
 
 					<div class="col-md-4 col-sm-12 footer-widget">
-						<h3 class="widget-title">Flickr Photos</h3>
+<!-- 						<h3 class="widget-title">Flickr Photos</h3>
 
 						<div class="img-gallery">
 							<div class="img-container">
@@ -52,12 +52,35 @@
 									<img src="images/gallery/9.jpg" alt="">
 								</a>
 							</div>
-						</div>
+						</div> -->
+
+						<div class="row">
+							<!-- Map start here -->
+							<div id="map-wrapper" class="no-padding">
+								<div class="map" id="map">
+
+
+
+
+
+
+									<iframe style="border:0; height: 350px; width: 100%;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.78303202202!2d-0.14459818479928202!3d51.517196417808655!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761bbe2fc04b43%3A0xd63a826bf9b4f497!2sTemp%20Agency!5e0!3m2!1sen!2s!4v1568042407431!5m2!1sen!2s" width="600" height="450" frameborder="0" style="border:0"></iframe>
+
+
+
+
+
+
+								</div>
+							</div>
+							<!--/ Map end here -->
+
+						</div><!-- Content row  end -->
 					</div>
 					<!--/ end flickr -->
 
 					<div class="col-md-3 col-sm-12 footer-widget footer-about-us">
-						<h3 class="widget-title">About Craft</h3>
+						<h3 class="widget-title">Temping Agency</h3>
 
 						<h4>Address</h4>
 						<p>344-348 High road, Ilford IG1 1QP </p>
@@ -83,6 +106,8 @@
 					<!--/ end about us -->
 
 				</div><!-- Row end -->
+
+
 			</div><!-- Container end -->
 		</footer><!-- Footer end -->
 
@@ -90,6 +115,49 @@
 		<!-- Copyright start -->
 		<section id="copyright" class="copyright angle">
 			<div class="container">
+
+				<!-- Footer Links Start -->
+
+				<div class="row">
+
+					<div class="col-md-3 col-sm-12">
+						<ul class="footer-ul">
+							<li><h5><a href="service1.php">Temporary Staffing Solutions</a></h5></li>
+							<li><h5><a href="service2.php">Catering</a></h5></li>
+							<li><h5><a href="service3.php">Staff On Call</a></h5></li>
+							<li><h5><a href="service4.php">Light Industrial Staff</a></h5></li>
+						</ul>
+					</div>
+					<div class="col-md-3 col-sm-12">
+						<ul class="footer-ul">
+							<li><h5><a href="service5.php">Temporary Labourer</a></h5></li>
+							<li><h5><a href="service6.php">Ready Talent</a></h5></li>
+							<li><h5><a href="service7.php">Agency Temps</a></h5></li>
+							<li><h5><a href="service8.php">Construction</a></h5></li>
+							<li><h5><a href="employer.php">Employer</a></h5></li>
+						</ul>
+					</div>
+					<div class="col-md-3 col-sm-12">
+						<ul class="footer-ul">
+							<li><h5><a href="service9.php">Events & Promotions</a></h5></li>
+							<li><h5><a href="service10.php">IT & Telecom</a></h5></li>
+							<li><h5><a href="service11.php">Sales & Retail</a></h5></li>
+							<li><h5><a href="service12.php">Hospitality</a></h5></li>
+						</ul>
+					</div>
+					<div class="col-md-3 col-sm-12">
+						<ul class="footer-ul">
+							<li><h5><a href="book-a-temp.php">Hire Temporary Staff</a></h5></li>
+							<li><h5><a href="cv-upload.php">CV Register</a></h5></li>
+							<li><h5><a href="job-seeker.php">Job Seeker</a></h5></li>
+							<li><h5><a href="post-a-job.php">Post A Job</a></h5></li>
+						</ul>
+					</div>
+				</div>
+				<hr>
+				<br>
+				<br>
+				<!-- Footer Links End -->
 				<div class="row">
 					<div class="col-md-12 text-center">
 						<ul class="footer-social unstyled">
@@ -135,3 +203,25 @@
 			<!--/ Container end -->
 		</section>
 		<!--/ Copyright end -->
+
+		<!-- Google Map API Key Source -->
+		<script type="text/javascript" src="//maps.googleapis.com/maps/api/js?key=AIzaSyCsa2Mi2HqyEcEnM1urFSIGEpvualYjwwM"></script>
+		<!-- Doc https://developers.google.com/maps/documentation/javascript/get-api-key -->
+		<script type="text/javascript" src="js/gmap3.js"></script>
+		<script type="text/javascript"></script>		<script type="text/javascript">
+			$(function() {
+				$('#map')
+				.gmap3({
+					address: "14600 Goldenwest St #101A, Westminster, California 92683",
+					zoom: 17,
+					mapTypeId: google.maps.MapTypeId.ROADMAP,
+					scrollwheel: false
+				})
+				.marker(function(map) {
+					return {
+						position: map.getCenter(),
+						icon: 'http://themewinter.com/html/marker.png'
+					};
+				});
+			});
+		</script>

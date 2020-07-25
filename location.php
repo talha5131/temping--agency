@@ -12,7 +12,7 @@
 
 	<meta charset="utf-8">
 
-	<title>Our Offices</title>
+	<title>Locations</title>
 
 	<meta name="description" content="">
 
@@ -132,13 +132,13 @@
 
 				<div class="text-center">
 
-					<h2>Our Offices</h2>
+					<h2>Locations</h2>
 
 					<ul class="breadcrumb">
 
 						<li><a href="index.html"> Home</a></li>
 
-						<li>Our Offices</li>
+						<li>Locations</li>
 
 
 
@@ -170,7 +170,7 @@
 
 					<div class="col-md-12 heading text-center">
 
-						<h2 class="title2">Our Offices
+						<h2 class="title2">Locations
 
 							<span class="title-desc">Temping Agency</span>
 

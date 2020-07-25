@@ -202,15 +202,11 @@
 
 
 
-										<img class="mySlides" src="images/slider/0.jpg" style="width:100%">
+										<img class="mySlides" src="images/slider3/industry-2630319 (1).jpg" style="width:100%">
 
-										<img class="mySlides" src="images/slider/00.jpg" style="width:100%">
+										<img class="mySlides" src="images/slider3/ipad-820272.jpg" style="width:100%">
 
-										<img class="mySlides" src="images/slider/000.jpg" style="width:100%">
-
-										<img class="mySlides" src="images/slider/0000.jpg" style="width:100%">
-
-										<img class="mySlides" src="images/slider/00000.jpg" style="width:100%">
+										<img class="mySlides" src="images/slider3/engineer-2558705.jpg" style="width:100%">
 
 
 

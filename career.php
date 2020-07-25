@@ -298,7 +298,7 @@
 							<!-- category start -->
 							<div class="widget widget-categories">
 								<h3>How to Apply</h3>
-								<p>Send your cv, relevant work experience and anything else that will make you stand out to career@bizcraft.com</p>
+								<p>Send your cv, relevant work experience and anything else that will make you stand out to Temping Agency.</p>
 							</div><!-- category end -->
 
 							<!-- tags start -->
@@ -318,17 +318,6 @@
 			<!--/ container end -->
 		</section>
 		<!--/ Main container end -->
-
-		<section class="call-to-action">
-			<div class="container">
-				<div class="row">
-					<div class="col-sm-12">
-						<h3>Join with BizCraft and Give Your Website a Brand New Look</h3>
-						<a href="#" class="pull-right btn btn-primary white">Purchase Now</a>
-					</div>
-				</div>
-			</div>
-		</section>
 
 		<!-- Footer start -->
 		<?php include('footer.php'); ?>

@@ -8,14 +8,14 @@
 </head>
 
 <body>
-	<header id="header" class="navbar-fixed-top header" role="banner" style="background-color: black; opacity: 0.8">
+	<header id="header" class="navbar-fixed-top header" role="banner" style="background-color: black; opacity: 0.9">
 		<div class="container-fluid">
 
 			<nav class="collapse navbar-collapse clearfix" role="navigation" style="margin-bottom: 15px;">
 				<div class="container-fluid">
 					<div class="row">
 						<div class="col-md-12">
-							<ul class="nav navbar-nav navbar-left nav-top-content" style="margin-left: 15%;">
+							<ul class="nav navbar-nav navbar-left nav-top-content" style="">
 								<li class="">
 									<a href="#" style=" color: white;">CALL US <strong>02030868984</strong></a>
 								</li>
@@ -29,26 +29,36 @@
 							<div class="nav-top-content navbar-right" style="margin-right: 5%;">
 								<ul class="nav navbar-nav">
 									<li class="">
-										<a href="employer.php" class="btn btn-primary cd-btn" style="padding-right: 29px; margin-top: 10px;
+										<a href="employer.php" class="btn btn-primary cd-btn" style="padding-right: 27px; margin-top: 10px;
 										margin-left: -65px; color: white;">Employer</a>
 									</li>
 									<li class="">
-										<a href="job-seeker.php" class="btn btn-primary cd-btn" style="padding-right: 27px; margin-top: 10px;
-										margin-left: 10px; color: white;">Job Seeker</a>
+										<a href="job-seeker.php" class="btn btn-primary cd-btn" style="padding-right: 27px;margin-top: 10px;margin-left: 10px; color: white;">Job Seeker</a>
+									</li>
+									<li class="">
+										<a href="cv-upload.php" class="btn btn-primary cd-btn" style="padding-right: 27px; margin-top: 10px;
+										margin-left: 10px; color: white;">CV Upload</a>
+									</li>
+									<li class="">
+										<a href="post-a-job.php" class="btn btn-primary cd-btn" style="padding-right: 27px;margin-top: 10px;margin-left: 10px; color: white;">Post A Job</a>
+									</li>
+									<li class="">
+										<a href="#" class="btn btn-primary cd-btn" style="padding-right: 27px; margin-top: 10px;
+										margin-left: 10px; color: white;" data-toggle="modal" data-target="#modalRegisterLogin">Register/Login</a>
 									</li>
 								</ul>
 							</div>
 						</div>
 						<div class="col-md-12">
 							<!-- Logo start -->
-							<div class="navbar-header">
+							<div class="">
 								<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
 									<span class="sr-only">Toggle navigation</span>
 									<span class="icon-bar"></span>
 									<span class="icon-bar"></span>
 									<span class="icon-bar"></span>
 								</button>
-								<div class="navbar-brand navbar-bg">
+								<div class="" style="position: absolute;top: 50px;">
 									<a href="index.php">
 										<img class="img-responsive" src="images/logo.png" alt="logo">
 									</a>
@@ -109,7 +119,7 @@
 
 								<li class="dropdown">
 									<a href="#" class="dropdown-toggle" data-toggle="dropdown">Blog <i class="fa fa-angle-down"></i></a>
-									<div class="dropdown-menu" style="margin-right: 130px;margin-top: -30px;">
+									<div class="dropdown-menu" style="">
 										<ul>
 
 											<li><a href="blog-item.php">How to achieve your bonus?</a></li>
@@ -128,23 +138,7 @@
 							</ul>
 						</div>
 						<div class="col-md-12">
-							<ul class="nav navbar-nav navbar-left" style=" margin-left: 15%">
-								<li class="">
-									<a href="cv-upload.php" class="btn btn-primary cd-btn" style="width: 310px; margin-top: -10px;
-									color: white;">CV Upload</a>
-								</li>
-								<li class="">
-									<a href="post-a-job.php" class="btn btn-primary cd-btn" style="width: 310px; margin-top: -10px;
-									margin-left: 10px; color: white;">Post A Job</a>
-								</li>
-							</ul>
 
-							<ul class="nav navbar-nav navbar-right" style="margin-right: 5%;">
-								<li class="">
-									<a href="#" class="btn btn-primary cd-btn" style="width: 310px; margin-top: -10px;
-									margin-left: -50px; color: white;" data-toggle="modal" data-target="#modalRegisterLogin">Register/Login</a>
-								</ul>
-							</div>
 						</div>
 					</div>
 				</div>
