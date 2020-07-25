@@ -29,11 +29,11 @@
 							<div class="nav-top-content navbar-right" style="margin-right: 5%;">
 								<ul class="nav navbar-nav">
 									<li class="">
-										<a href="#" class="btn btn-primary cd-btn" style="padding-right: 29px; margin-top: 10px;
+										<a href="employer.php" class="btn btn-primary cd-btn" style="padding-right: 29px; margin-top: 10px;
 										margin-left: -65px; color: white;">Employer</a>
 									</li>
 									<li class="">
-										<a href="#" class="btn btn-primary cd-btn" style="padding-right: 27px; margin-top: 10px;
+										<a href="job-seeker.php" class="btn btn-primary cd-btn" style="padding-right: 27px; margin-top: 10px;
 										margin-left: 10px; color: white;">Job Seeker</a>
 									</li>
 								</ul>
@@ -130,18 +130,18 @@
 						<div class="col-md-12">
 							<ul class="nav navbar-nav navbar-left" style=" margin-left: 15%">
 								<li class="">
-									<a href="cv-upload.php" class="btn btn-primary cd-btn" style="width: 350px; margin-top: -10px;
+									<a href="cv-upload.php" class="btn btn-primary cd-btn" style="width: 310px; margin-top: -10px;
 									color: white;">CV Upload</a>
 								</li>
 								<li class="">
-									<a href="post-a-job.php" class="btn btn-primary cd-btn" style="width: 350px; margin-top: -10px;
+									<a href="post-a-job.php" class="btn btn-primary cd-btn" style="width: 310px; margin-top: -10px;
 									margin-left: 10px; color: white;">Post A Job</a>
 								</li>
 							</ul>
 
 							<ul class="nav navbar-nav navbar-right" style="margin-right: 5%;">
 								<li class="">
-									<a href="#" class="btn btn-primary cd-btn" style="width: 330px; margin-top: -10px;
+									<a href="#" class="btn btn-primary cd-btn" style="width: 310px; margin-top: -10px;
 									margin-left: -50px; color: white;" data-toggle="modal" data-target="#modalRegisterLogin">Register/Login</a>
 								</ul>
 							</div>

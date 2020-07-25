@@ -1,52 +1,53 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
 
 	<!-- Basic Page Needs
 		================================================== -->
-		<meta charset="utf-8">
-		<title>About Us</title>
-		<meta name="description" content="">	
-		<meta name="author" content="">
+	<meta charset="utf-8">
+	<title>About Us</title>
+	<meta name="description" content="">
+	<meta name="author" content="">
 
 	<!-- Mobile Specific Metas
 		================================================== -->
-		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
 	<!-- Favicons
 		================================================== -->
-		<link rel="icon" href="img/favicon/favicon-32x32.png" type="image/x-icon" />
-		<link rel="apple-touch-icon-precomposed" sizes="144x144" href="img/favicon/favicon-144x144.png">
-		<link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/favicon/favicon-72x72.png">
-		<link rel="apple-touch-icon-precomposed" href="img/favicon/favicon-54x54.png">
-		
+	<link rel="icon" href="img/favicon/favicon-32x32.png" type="image/x-icon" />
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="img/favicon/favicon-144x144.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/favicon/favicon-72x72.png">
+	<link rel="apple-touch-icon-precomposed" href="img/favicon/favicon-54x54.png">
+
 	<!-- CSS
 		================================================== -->
-		
-		<!-- Bootstrap -->
-		<link rel="stylesheet" href="css/bootstrap.min.css">
-		<!-- Template styles-->
-		<link rel="stylesheet" href="css/style.css">
-		<!-- Responsive styles-->
-		<link rel="stylesheet" href="css/responsive.css">
-		<!-- FontAwesome -->
-		<link rel="stylesheet" href="css/font-awesome.min.css">
-		<!-- Animation -->
-		<link rel="stylesheet" href="css/animate.css">
-		<!-- Prettyphoto -->
-		<link rel="stylesheet" href="css/prettyPhoto.css">
-		<!-- Owl Carousel -->
-		<link rel="stylesheet" href="css/owl.carousel.css">
-		<link rel="stylesheet" href="css/owl.theme.css">
-		<!-- Flexslider -->
-		<link rel="stylesheet" href="css/flexslider.css">
-		<!-- Flexslider -->
-		<link rel="stylesheet" href="css/cd-hero.css">
-		<!-- Style Swicther -->
-		<link id="style-switch" href="css/presets/preset3.css" media="screen" rel="stylesheet" type="text/css">
 
-		<!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
-    <!--[if lt IE 9]>
+	<!-- Bootstrap -->
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<!-- Template styles-->
+	<link rel="stylesheet" href="css/style.css">
+	<!-- Responsive styles-->
+	<link rel="stylesheet" href="css/responsive.css">
+	<!-- FontAwesome -->
+	<link rel="stylesheet" href="css/font-awesome.min.css">
+	<!-- Animation -->
+	<link rel="stylesheet" href="css/animate.css">
+	<!-- Prettyphoto -->
+	<link rel="stylesheet" href="css/prettyPhoto.css">
+	<!-- Owl Carousel -->
+	<link rel="stylesheet" href="css/owl.carousel.css">
+	<link rel="stylesheet" href="css/owl.theme.css">
+	<!-- Flexslider -->
+	<link rel="stylesheet" href="css/flexslider.css">
+	<!-- Flexslider -->
+	<link rel="stylesheet" href="css/cd-hero.css">
+	<!-- Style Swicther -->
+	<link id="style-switch" href="css/presets/preset3.css" media="screen" rel="stylesheet" type="text/css">
+
+	<!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
+	<!--[if lt IE 9]>
       <script src="js/html5shiv.js"></script>
       <script src="js/respond.min.js"></script>
   <![endif]-->
@@ -63,7 +64,7 @@
 		<!--/ Header end -->
 
 		<div id="banner-area">
-			<img src="images/banner/banner1.jpg" alt ="" />
+			<img src="images/banner/banner1.jpg" alt="" />
 			<div class="parallax-overlay"></div>
 			<!-- Subpage title start -->
 			<div class="banner-title-content">
@@ -95,60 +96,63 @@
 
 				<div class="row about-wrapper-top">
 					<div class="col-md-12 ts-padding about-message">
-						
-						<p>As part of Workers Direct, Our team known as one of the best temping agency in London. We can claim this based on the many years of experience that we have in the temporary recruitment field. <br>					Our placement rates, satisfied clients and happy candidates all attest to our ability to provide an excellent service. </p>
-						<p>  Some of the things that you need to look out for in a temping agency are:</p>
+
+						<p>As part of Workers Direct, Our team known as one of the best temping agency in London. We can claim this based on the many years of experience that we have in the temporary recruitment field. <br> Our placement rates, satisfied clients and happy candidates all attest to our ability to provide an excellent service. </p>
+						<p> Some of the things that you need to look out for in a temping agency are:</p>
 						<ul class="unstyled arrow">
 							<li>Professional service </li>
 							<li>Efficient matching between job specification and candidate </li>
 							<li>Consultants’ ability to interview and determine the skills, qualifications and experience of potential candidates </li>
 							<li>The ability to recognise the client’s company culture and match candidates accordingly </li>
 							<li>Consultants’ ability to give professional service and keep clients on the agency’s books </li>
-							
+
 						</ul>
 						<br>
-						<p>As team of professionals we can confidently say that we have an outstanding track record in all of the above. Our first concern is always the client’s needs and then we consider our candidates’ potential to fulfil those needs. We are not the regular staff recruitment agency that you will find advertised on the net and in the papers. Our candidates come from a range of backgrounds and are placed on our extensive, specialist databases.  </p>
+						<p>As team of professionals we can confidently say that we have an outstanding track record in all of the above. Our first concern is always the client’s needs and then we consider our candidates’ potential to fulfil those needs. We are not the regular staff recruitment agency that you will find advertised on the net and in the papers. Our candidates come from a range of backgrounds and are placed on our extensive, specialist databases. </p>
 						<p> One of the things that we are very proud of is the speciality fields within the agency. We cater for staff in industries such as the hospitality industry, medical fields etc. Our consultants in each specialist field are uniquely trained to do both interviews and placements based on the field that they are working in. Our placement rate in these fields is very high and our candidates as well as our clients are very happy with the matches that we made. </p>
-						
-						
-						<p>As a top<a style="color:#51284f; " href="https://www.temping-agency.com"> temping agency in London </a>, we are the best choice for all your recruitment and staffing needs backed by professional service and a replacement guarantee.  </p>
-						<br> <br> <br>  
-						
+
+
+						<p>As a top<a style="color:#51284f; " href="https://www.temping-agency.com"> temping agency in London </a>, we are the best choice for all your recruitment and staffing needs backed by professional service and a replacement guarantee. </p>
+						<br> <br> <br>
+
 						<!-- Product Blocks -->
-						
+
 						<div class="container">
 							<!-- Product Blocks -->
-							
-							
-							<div class="row text-center wow fadeInRight">
-								
-								<div class="col-md-12   ftco-animate">
-									<div >
-										<iframe style="border:0; height: 500px; width: 100%;" src="https://www.youtube.com/embed/neRtbXyynsU"></iframe>
-									</div> 
-									<br>  
-								</div> 
-							</div>
-							
-							
-						</div>
-						
-						
-						
-						
-						
-						
-					</div><!--/ About message end -->
-					<!--/ About image end -->
-				</div><!--/ Content row end -->
 
-				
+
+							<div class="row text-center wow fadeInRight">
+
+								<div class="col-md-12   ftco-animate">
+									<div>
+										<iframe style="border:0; height: 500px; width: 100%;" src="https://www.youtube.com/embed/neRtbXyynsU"></iframe>
+									</div>
+									<br>
+								</div>
+							</div>
+
+
+						</div>
+
+
+
+
+
+
+					</div>
+					<!--/ About message end -->
+					<!--/ About image end -->
+				</div>
+				<!--/ Content row end -->
+
+
 
 				<!-- Company Profile -->
 
-			</div><!--/ 1st container end -->
+			</div>
+			<!--/ 1st container end -->
 
-			
+
 			<div class="gap-60"></div>
 
 
@@ -162,7 +166,7 @@
 							<div class="facts-num">
 								<span class="counter">1200</span>
 							</div>
-							<h3>Clients</h3> 
+							<h3>Clients</h3>
 						</div>
 
 						<div class="facts col-md-3 col-sm-6">
@@ -170,7 +174,7 @@
 							<div class="facts-num">
 								<span class="counter">1277</span>
 							</div>
-							<h3>Item Sold</h3> 
+							<h3>Item Sold</h3>
 						</div>
 
 						<div class="facts col-md-3 col-sm-6">
@@ -178,7 +182,7 @@
 							<div class="facts-num">
 								<span class="counter">869</span>
 							</div>
-							<h3>Projects</h3> 
+							<h3>Projects</h3>
 						</div>
 
 						<div class="facts col-md-3 col-sm-6">
@@ -186,157 +190,30 @@
 							<div class="facts-num">
 								<span class="counter">76</span>
 							</div>
-							<h3>Awwards</h3> 
+							<h3>Awwards</h3>
 						</div>
 
-						
-
-						
-
-					</div><!--/ row end -->
-				</div><!--/ Container end -->
-			</div><!--/ Counter end -->
-
-			
-			
-		</section><!--/ Main container end -->
-		
 
 
-		
+
+
+					</div>
+					<!--/ row end -->
+				</div>
+				<!--/ Container end -->
+			</div>
+			<!--/ Counter end -->
+
+
+
+		</section>
+		<!--/ Main container end -->
 
 		<!-- Footer start -->
-		<footer id="footer" class="footer">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-4 col-sm-12 footer-widget">
-						
-						<a href="index.html">
-							<img class="img-responsive" src="images/logo.png" alt="logo">
-						</a>  <br>  
-						<p>  Temping Agency is a privately owned recruitment agency based in Central London, W1 area andÂ Established as part of the Workers Direct Group in 2010, TA has delivered excellent recruitment and employment services to clients in a variety of industries.<br> <br>Our services include recruitment, selection, placement, contract and temporary workers and our consultants are highly trained and experienced to deal with each step of the process. </p>
-						
-						<!-- 1st Latest Post end -->
+		<?php include('footer.php'); ?>
+		<!--/ Footer end -->
 
-						<!-- 2nd Latest Post end -->
-
-						<!-- 3rd Latest Post end -->
-						
-					</div><!--/ End Recent Posts-->
-					
-
-					<div class="col-md-4 col-sm-12 footer-widget">
-						<h3 class="widget-title">Flickr Photos</h3>
-
-						<div class="img-gallery">
-							<div class="img-container">
-								<a class="thumb-holder" data-rel="prettyPhoto" href="images/gallery/1.jpg">
-									<img src="images/gallery/1.jpg" alt="">
-								</a>
-								<a class="thumb-holder" data-rel="prettyPhoto" href="images/gallery/2.jpg">
-									<img src="images/gallery/2.jpg" alt="">
-								</a>
-								<a class="thumb-holder" data-rel="prettyPhoto" href="images/gallery/3.jpg">
-									<img src="images/gallery/3.jpg" alt="">
-								</a>
-								<a class="thumb-holder" data-rel="prettyPhoto" href="images/gallery/4.jpg">
-									<img src="images/gallery/4.jpg" alt="">
-								</a>
-								<a class="thumb-holder" data-rel="prettyPhoto" href="images/gallery/5.jpg">
-									<img src="images/gallery/5.jpg" alt="">
-								</a>
-								<a class="thumb-holder" data-rel="prettyPhoto" href="images/gallery/6.jpg">
-									<img src="images/gallery/6.jpg" alt="">
-								</a>
-								<a class="thumb-holder" data-rel="prettyPhoto" href="images/gallery/6.jpg">
-									<img src="images/gallery/7.jpg" alt="">
-								</a>
-								<a class="thumb-holder" data-rel="prettyPhoto" href="images/gallery/6.jpg">
-									<img src="images/gallery/8.jpg" alt="">
-								</a>
-								<a class="thumb-holder" data-rel="prettyPhoto" href="images/gallery/6.jpg">
-									<img src="images/gallery/9.jpg" alt="">
-								</a>
-							</div>
-						</div>
-					</div><!--/ end flickr -->
-
-					<div class="col-md-3 col-sm-12 footer-widget footer-about-us">
-						<h3 class="widget-title">About Craft</h3>
-						
-						<h4>Address</h4>
-						<p>344-348 High road, Ilford IG1 1QP  </p>
-						
-						
-						<h4>Email:</h4>
-						<p>info@temping-agency.com</p>
-						
-						
-						<h4>Phone No.</h4>
-						<p>+44 (0) 2030 869080</p>
-						
-						
-						<form action="#" role="form">
-							<div class="input-group subscribe">
-								<input type="email" class="form-control" placeholder="Email Address" required="">
-								<span class="input-group-addon">
-									<button class="btn" type="submit"><i class="fa fa-envelope-o"> </i></button>
-								</span>                        
-							</div>
-						</form>
-					</div><!--/ end about us -->
-
-				</div><!-- Row end -->
-			</div><!-- Container end -->
-		</footer><!-- Footer end -->
-		
-
-		<!-- Copyright start -->
-		<section id="copyright" class="copyright angle">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-12 text-center">
-						<ul class="footer-social unstyled">
-							<li>
-								<a title="Twitter" href="#">
-									<span class="icon-pentagon wow bounceIn"><i class="fa fa-twitter"></i></span>
-								</a>
-								<a title="Facebook" href="#">
-									<span class="icon-pentagon wow bounceIn"><i class="fa fa-facebook"></i></span>
-								</a>
-								<a title="Google+" href="#">
-									<span class="icon-pentagon wow bounceIn"><i class="fa fa-google-plus"></i></span>
-								</a>
-								<a title="linkedin" href="#">
-									<span class="icon-pentagon wow bounceIn"><i class="fa fa-linkedin"></i></span>
-								</a>
-								<a title="Pinterest" href="#">
-									<span class="icon-pentagon wow bounceIn"><i class="fa fa-pinterest"></i></span>
-								</a>
-								<a title="Skype" href="#">
-									<span class="icon-pentagon wow bounceIn"><i class="fa fa-skype"></i></span>
-								</a>
-								<a title="Dribble" href="#">
-									<span class="icon-pentagon wow bounceIn"><i class="fa fa-dribbble"></i></span>
-								</a>
-							</li>
-						</ul>
-					</div>
-				</div><!--/ Row end -->
-				<div class="row">
-					<div class="col-md-12 text-center">
-						<div class="copyright-info">
-							&copy; Copyright 2019 Temping Agency <span>Design & Developed by <a href="https://mstdevelopers.com">MST Developers</a></span>
-						</div>
-					</div>
-				</div><!--/ Row end -->
-				<div id="back-to-top" data-spy="affix" data-offset-top="10" class="back-to-top affix">
-					<button class="btn btn-primary" title="Back to Top"><i class="fa fa-angle-double-up"></i></button>
-				</div>
-			</div><!--/ Container end -->
-		</section><!--/ Copyright end -->
-
-	<!-- Javascript Files
+		<!-- Javascript Files
 		================================================== -->
 
 		<!-- initialize jQuery Library -->
@@ -370,4 +247,5 @@
 		<script type="text/javascript" src="js/custom.js"></script>
 	</div><!-- Body inner end -->
 </body>
+
 </html>

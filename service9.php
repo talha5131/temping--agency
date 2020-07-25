@@ -10,13 +10,13 @@
 
 		================================================== -->
 
-		<meta charset="utf-8">
+	<meta charset="utf-8">
 
-		<title>Events & Promotions</title>
+	<title>Events & Promotions</title>
 
-		<meta name="description" content="">	
+	<meta name="description" content="">
 
-		<meta name="author" content="">
+	<meta name="author" content="">
 
 
 
@@ -24,7 +24,7 @@
 
 		================================================== -->
 
-		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
 
 
@@ -32,15 +32,15 @@
 
 		================================================== -->
 
-		<link rel="icon" href="img/favicon/favicon-32x32.png" type="image/x-icon" />
+	<link rel="icon" href="img/favicon/favicon-32x32.png" type="image/x-icon" />
 
-		<link rel="apple-touch-icon-precomposed" sizes="144x144" href="img/favicon/favicon-144x144.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="img/favicon/favicon-144x144.png">
 
-		<link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/favicon/favicon-72x72.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/favicon/favicon-72x72.png">
 
-		<link rel="apple-touch-icon-precomposed" href="img/favicon/favicon-54x54.png">
+	<link rel="apple-touch-icon-precomposed" href="img/favicon/favicon-54x54.png">
 
-		<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
 	<!-- CSS
 
@@ -48,53 +48,53 @@
 
 
 
-		<!-- Bootstrap -->
+	<!-- Bootstrap -->
 
-		<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/bootstrap.min.css">
 
-		<!-- Template styles-->
+	<!-- Template styles-->
 
-		<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="css/style.css">
 
-		<!-- Responsive styles-->
+	<!-- Responsive styles-->
 
-		<link rel="stylesheet" href="css/responsive.css">
+	<link rel="stylesheet" href="css/responsive.css">
 
-		<!-- FontAwesome -->
+	<!-- FontAwesome -->
 
-		<link rel="stylesheet" href="css/font-awesome.min.css">
+	<link rel="stylesheet" href="css/font-awesome.min.css">
 
-		<!-- Animation -->
+	<!-- Animation -->
 
-		<link rel="stylesheet" href="css/animate.css">
+	<link rel="stylesheet" href="css/animate.css">
 
-		<!-- Prettyphoto -->
+	<!-- Prettyphoto -->
 
-		<link rel="stylesheet" href="css/prettyPhoto.css">
+	<link rel="stylesheet" href="css/prettyPhoto.css">
 
-		<!-- Owl Carousel -->
+	<!-- Owl Carousel -->
 
-		<link rel="stylesheet" href="css/owl.carousel.css">
+	<link rel="stylesheet" href="css/owl.carousel.css">
 
-		<link rel="stylesheet" href="css/owl.theme.css">
+	<link rel="stylesheet" href="css/owl.theme.css">
 
-		<!-- Flexslider -->
+	<!-- Flexslider -->
 
-		<link rel="stylesheet" href="css/flexslider.css">
+	<link rel="stylesheet" href="css/flexslider.css">
 
-		<!-- Flexslider -->
+	<!-- Flexslider -->
 
-		<link rel="stylesheet" href="css/cd-hero.css">
+	<link rel="stylesheet" href="css/cd-hero.css">
 
-		<!-- Style Swicther -->
+	<!-- Style Swicther -->
 
-		<link id="style-switch" href="css/presets/preset3.css" media="screen" rel="stylesheet" type="text/css">
+	<link id="style-switch" href="css/presets/preset3.css" media="screen" rel="stylesheet" type="text/css">
 
 
 
-		<!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
+	<!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
 
-    <!--[if lt IE 9]>
+	<!--[if lt IE 9]>
 
       <script src="js/html5shiv.js"></script>
 
@@ -121,7 +121,7 @@
 
 		<div id="banner-area">
 
-			<img src="images/banner/banner1.jpg" alt ="" />
+			<img src="images/banner/banner1.jpg" alt="" />
 
 			<div class="parallax-overlay"></div>
 
@@ -194,68 +194,70 @@
 							As with all our other divisions it would depend on the type of placement that will determine the candidate selected for that position.
 							<br> <br> These positions could be full-time, part-time, permanent or temporary, it all depends on the type and duration of the event. It would also depend on the event companyâ€™s needs and requirements.</p>
 
-							<br>
+						<br>
 
-							<h3> Recruitment Agency London and Event Staff Recruitment </h3>
+						<h3> Recruitment Agency London and Event Staff Recruitment </h3>
 
-							<br>
+						<br>
 
-							<p>Recruitment Agency London specialises in providing exceptional, skilled and experienced candidates to companies and other organisations. We recruit, advertise and screen potential candidates vigorously and do all the relevant skills tests to make sure that the candidates are ready to start working immediately or as soon as possible.
+						<p>Recruitment Agency London specialises in providing exceptional, skilled and experienced candidates to companies and other organisations. We recruit, advertise and screen potential candidates vigorously and do all the relevant skills tests to make sure that the candidates are ready to start working immediately or as soon as possible.
 
 							As with any other industry the Events industry has many different levels of staff. We cater for candidates from very junior positions to those who work at the top level of their Â organisation.</p>
 
-							<p>Candidates are allocated to clients and positions according to their qualifications, skills, their past experience as well as their chosen career path. Mostly this industry depends on mid- to short-term placements with a fast turnover of staff. The duration of the event also plays a major role when recruiting for these positions. Some events take years to prepare while other happen literally overnight. The candidates will have to be prepared to work under these terms and conditions.</p>
+						<p>Candidates are allocated to clients and positions according to their qualifications, skills, their past experience as well as their chosen career path. Mostly this industry depends on mid- to short-term placements with a fast turnover of staff. The duration of the event also plays a major role when recruiting for these positions. Some events take years to prepare while other happen literally overnight. The candidates will have to be prepared to work under these terms and conditions.</p>
 
-							<section>
+						<section>
 
-								<div class="container">
+							<div class="container">
 
-									<div class="row">
+								<div class="row">
 
-										<div class="w3-content w3-section" style="max-width:1100px">
-
-
-
-											<img class="mySlides" src="images/slider/0.jpg" style="width:100%">
-
-											<img class="mySlides" src="images/slider/00.jpg" style="width:100%">
-
-											<img class="mySlides" src="images/slider/000.jpg" style="width:100%">
-
-											<img class="mySlides" src="images/slider/0000.jpg" style="width:100%">
-
-											<img class="mySlides" src="images/slider/00000.jpg" style="width:100%">
+									<div class="w3-content w3-section" style="max-width:1100px">
 
 
 
+										<img class="mySlides" src="images/slider/0.jpg" style="width:100%">
+
+										<img class="mySlides" src="images/slider/00.jpg" style="width:100%">
+
+										<img class="mySlides" src="images/slider/000.jpg" style="width:100%">
+
+										<img class="mySlides" src="images/slider/0000.jpg" style="width:100%">
+
+										<img class="mySlides" src="images/slider/00000.jpg" style="width:100%">
 
 
-										</div>
+
+
 
 									</div>
 
 								</div>
 
-							</section>
+							</div>
 
-							<h3>Recruitment Agency Londonâ€™s promise</h3>
+						</section>
 
-							<br>
+						<h3>Recruitment Agency Londonâ€™s promise</h3>
 
-							<p>Recruitment Agency Londonâ€™s mission is to satisfy our clientsâ€™ needs and requirements. When doing recruitment for the Events industry, we work quickly to fill the position. Not only is it critical to meet our clientâ€™s demands, but the industry is highly competitive and a tardy response could lead to the candidate being snapped up by another agency.
+						<br>
+
+						<p>Recruitment Agency Londonâ€™s mission is to satisfy our clientsâ€™ needs and requirements. When doing recruitment for the Events industry, we work quickly to fill the position. Not only is it critical to meet our clientâ€™s demands, but the industry is highly competitive and a tardy response could lead to the candidate being snapped up by another agency.
 
 							As a leader in this field, Recruitment Agency London has an extensive database of event staff and are often called on by large corporations to do their event staff recruitment.</p>
 
-							<p>	The placement consultant will check in with both the client and the candidate on a daily / weekly basis (depending on the duration of the event and its preparation) to make sure that both are satisfied with the assignmentâ€™s progress. We are constantly updating and improving our service in line with government requirements and client recommendations.
+						<p> The placement consultant will check in with both the client and the candidate on a daily / weekly basis (depending on the duration of the event and its preparation) to make sure that both are satisfied with the assignmentâ€™s progress. We are constantly updating and improving our service in line with government requirements and client recommendations.
 							Contact our friendly staff for more information.</p>
 
 
 
-						</div><!--/ About message end -->
+					</div>
+					<!--/ About message end -->
 
-						<!--/ About image end -->
+					<!--/ About image end -->
 
-					</div><!--/ Content row end -->
+				</div>
+				<!--/ Content row end -->
 
 
 
@@ -263,396 +265,136 @@
 
 
 
-					<!-- Company Profile -->
+				<!-- Company Profile -->
 
 
 
-				</div><!--/ 1st container end -->
+			</div>
+			<!--/ 1st container end -->
 
 
 
 
 
-				<div class="gap-60"></div>
+			<div class="gap-60"></div>
 
 
 
 
 
-				<!-- Counter Strat -->
+			<!-- Counter Strat -->
 
-				<div class="ts_counter_bg parallax parallax2">
+			<div class="ts_counter_bg parallax parallax2">
 
-					<div class="parallax-overlay"></div>
-
-					<div class="container">
-
-						<div class="row wow fadeInLeft text-center">
-
-							<div class="facts col-md-3 col-sm-6">
-
-								<span class="facts-icon"><i class="fa fa-user"></i></span>
-
-								<div class="facts-num">
-
-									<span class="counter">1500</span>
-
-								</div>
-
-								<h3>Candidates</h3> 
-
-							</div>
-
-
-
-							<div class="facts col-md-3 col-sm-6">
-
-								<span class="facts-icon"><i class="fa fa-institution"></i></span>
-
-								<div class="facts-num">
-
-									<span class="counter">1277</span>
-
-								</div>
-
-								<h3>Recruitments</h3> 
-
-							</div>
-
-
-
-							<div class="facts col-md-3 col-sm-6">
-
-								<span class="facts-icon"><i class="fa fa-suitcase"></i></span>
-
-								<div class="facts-num">
-
-									<span class="counter">1469</span>
-
-								</div>
-
-								<h3>Jobs</h3> 
-
-							</div>
-
-
-
-							<div class="facts col-md-3 col-sm-6">
-
-								<span class="facts-icon"><i class="fa fa-trophy"></i></span>
-
-								<div class="facts-num">
-
-									<span class="counter">76</span>
-
-								</div>
-
-								<h3>Awwards</h3> 
-
-							</div>
-
-
-
-
-
-
-
-
-
-
-
-						</div><!--/ row end -->
-
-					</div><!--/ Container end -->
-
-				</div><!--/ Counter end -->
-
-
-
-
-
-
-
-			</section><!--/ Main container end -->
-
-
-
-
-
-
-
-
-
-
-
-			<!-- Footer start -->
-
-			<footer id="footer" class="footer">
+				<div class="parallax-overlay"></div>
 
 				<div class="container">
 
-					<div class="row">
+					<div class="row wow fadeInLeft text-center">
 
-						<div class="col-md-4 col-sm-12 footer-widget">
+						<div class="facts col-md-3 col-sm-6">
 
+							<span class="facts-icon"><i class="fa fa-user"></i></span>
 
+							<div class="facts-num">
 
-							<a href="index.html">
-
-								<img class="img-responsive" src="images/logo.png" alt="logo">
-
-							</a>  <br>  
-
-							<p>  Temping Agency is a privately owned recruitment agency based in Central London, W1 area andÂ Established as part of the Workers Direct Group in 2010, TA has delivered excellent recruitment and employment services to clients in a variety of industries.<br> <br>Our services include recruitment, selection, placement, contract and temporary workers and our consultants are highly trained and experienced to deal with each step of the process. </p>
-
-
-
-							<!-- 1st Latest Post end -->
-
-
-
-							<!-- 2nd Latest Post end -->
-
-
-
-							<!-- 3rd Latest Post end -->
-
-
-
-						</div><!--/ End Recent Posts-->
-
-
-
-
-
-						<div class="col-md-4 col-sm-12 footer-widget">
-
-							<h3 class="widget-title">Flickr Photos</h3>
-
-
-
-							<div class="img-gallery">
-
-								<div class="img-container">
-
-									<a class="thumb-holder" data-rel="prettyPhoto" href="images/gallery/1.jpg">
-
-										<img src="images/gallery/1.jpg" alt="">
-
-									</a>
-
-									<a class="thumb-holder" data-rel="prettyPhoto" href="images/gallery/2.jpg">
-
-										<img src="images/gallery/2.jpg" alt="">
-
-									</a>
-
-									<a class="thumb-holder" data-rel="prettyPhoto" href="images/gallery/3.jpg">
-
-										<img src="images/gallery/3.jpg" alt="">
-
-									</a>
-
-									<a class="thumb-holder" data-rel="prettyPhoto" href="images/gallery/4.jpg">
-
-										<img src="images/gallery/4.jpg" alt="">
-
-									</a>
-
-									<a class="thumb-holder" data-rel="prettyPhoto" href="images/gallery/5.jpg">
-
-										<img src="images/gallery/5.jpg" alt="">
-
-									</a>
-
-									<a class="thumb-holder" data-rel="prettyPhoto" href="images/gallery/6.jpg">
-
-										<img src="images/gallery/6.jpg" alt="">
-
-									</a>
-
-									<a class="thumb-holder" data-rel="prettyPhoto" href="images/gallery/6.jpg">
-
-										<img src="images/gallery/7.jpg" alt="">
-
-									</a>
-
-									<a class="thumb-holder" data-rel="prettyPhoto" href="images/gallery/6.jpg">
-
-										<img src="images/gallery/8.jpg" alt="">
-
-									</a>
-
-									<a class="thumb-holder" data-rel="prettyPhoto" href="images/gallery/6.jpg">
-
-										<img src="images/gallery/9.jpg" alt="">
-
-									</a>
-
-								</div>
+								<span class="counter">1500</span>
 
 							</div>
 
-						</div><!--/ end flickr -->
-
-
-
-						<div class="col-md-3 col-sm-12 footer-widget footer-about-us">
-
-							<h3 class="widget-title">About Craft</h3>
-
-
-
-							<h4>Address</h4>
-
-							<p>344-348 High road, Ilford IG1 1QP  </p>
-
-
-
-
-
-							<h4>Email:</h4>
-
-							<p>info@temping-agency.com</p>
-
-
-
-
-
-							<h4>Phone No.</h4>
-
-							<p>+44 (0) 2030 869080</p>
-
-
-
-
-
-							<form action="#" role="form">
-
-								<div class="input-group subscribe">
-
-									<input type="email" class="form-control" placeholder="Email Address" required="">
-
-									<span class="input-group-addon">
-
-										<button class="btn" type="submit"><i class="fa fa-envelope-o"> </i></button>
-
-									</span>                        
-
-								</div>
-
-							</form>
-
-						</div><!--/ end about us -->
-
-
-
-					</div><!-- Row end -->
-
-				</div><!-- Container end -->
-
-			</footer><!-- Footer end -->
-
-
-
-
-
-			<!-- Copyright start -->
-
-			<section id="copyright" class="copyright angle">
-
-				<div class="container">
-
-					<div class="row">
-
-						<div class="col-md-12 text-center">
-
-							<ul class="footer-social unstyled">
-
-								<li>
-
-									<a title="Twitter" href="#">
-
-										<span class="icon-pentagon wow bounceIn"><i class="fa fa-twitter"></i></span>
-
-									</a>
-
-									<a title="Facebook" href="#">
-
-										<span class="icon-pentagon wow bounceIn"><i class="fa fa-facebook"></i></span>
-
-									</a>
-
-									<a title="Google+" href="#">
-
-										<span class="icon-pentagon wow bounceIn"><i class="fa fa-google-plus"></i></span>
-
-									</a>
-
-									<a title="linkedin" href="#">
-
-										<span class="icon-pentagon wow bounceIn"><i class="fa fa-linkedin"></i></span>
-
-									</a>
-
-									<a title="Pinterest" href="#">
-
-										<span class="icon-pentagon wow bounceIn"><i class="fa fa-pinterest"></i></span>
-
-									</a>
-
-									<a title="Skype" href="#">
-
-										<span class="icon-pentagon wow bounceIn"><i class="fa fa-skype"></i></span>
-
-									</a>
-
-									<a title="Dribble" href="#">
-
-										<span class="icon-pentagon wow bounceIn"><i class="fa fa-dribbble"></i></span>
-
-									</a>
-
-								</li>
-
-							</ul>
+							<h3>Candidates</h3>
 
 						</div>
 
-					</div><!--/ Row end -->
 
-					<div class="row">
 
-						<div class="col-md-12 text-center">
+						<div class="facts col-md-3 col-sm-6">
 
-							<div class="copyright-info">
+							<span class="facts-icon"><i class="fa fa-institution"></i></span>
 
-								&copy; Copyright 2019 Temping Agency <span>Design & Developed by <a href="https://mstdevelopers.com">MST Developers</a></span>
+							<div class="facts-num">
+
+								<span class="counter">1277</span>
 
 							</div>
 
+							<h3>Recruitments</h3>
+
 						</div>
 
-					</div><!--/ Row end -->
 
-					<div id="back-to-top" data-spy="affix" data-offset-top="10" class="back-to-top affix">
 
-						<button class="btn btn-primary" title="Back to Top"><i class="fa fa-angle-double-up"></i></button>
+						<div class="facts col-md-3 col-sm-6">
+
+							<span class="facts-icon"><i class="fa fa-suitcase"></i></span>
+
+							<div class="facts-num">
+
+								<span class="counter">1469</span>
+
+							</div>
+
+							<h3>Jobs</h3>
+
+						</div>
+
+
+
+						<div class="facts col-md-3 col-sm-6">
+
+							<span class="facts-icon"><i class="fa fa-trophy"></i></span>
+
+							<div class="facts-num">
+
+								<span class="counter">76</span>
+
+							</div>
+
+							<h3>Awwards</h3>
+
+						</div>
+
+
+
+
+
+
+
+
+
+
 
 					</div>
+					<!--/ row end -->
 
-				</div><!--/ Container end -->
+				</div>
+				<!--/ Container end -->
 
-			</section><!--/ Copyright end -->
+			</div>
+			<!--/ Counter end -->
 
 
 
-	<!-- Javascript Files
+
+
+
+
+		</section>
+		<!--/ Main container end -->
+
+
+
+		<!-- Footer start -->
+		<?php include('footer.php'); ?>
+		<!--/ Footer end -->
+
+
+
+		<!-- Javascript Files
 
 		================================================== -->
 
 		<script>
-
 			var myIndex = 0;
 
 			carousel();
@@ -667,81 +409,82 @@
 
 				for (i = 0; i < x.length; i++) {
 
-					x[i].style.display = "none";  
+					x[i].style.display = "none";
 
 				}
 
 				myIndex++;
 
-				if (myIndex > x.length) {myIndex = 1}    
+				if (myIndex > x.length) {
+					myIndex = 1
+				}
 
-					x[myIndex-1].style.display = "block";  
+				x[myIndex - 1].style.display = "block";
 
-  setTimeout(carousel, 2000); // Change image every 2 seconds
+				setTimeout(carousel, 2000); // Change image every 2 seconds
 
-}
+			}
+		</script>
 
-</script>
+		<!-- initialize jQuery Library -->
 
-<!-- initialize jQuery Library -->
+		<script type="text/javascript" src="js/jquery.js"></script>
 
-<script type="text/javascript" src="js/jquery.js"></script>
+		<!-- Bootstrap jQuery -->
 
-<!-- Bootstrap jQuery -->
+		<script type="text/javascript" src="js/bootstrap.min.js"></script>
 
-<script type="text/javascript" src="js/bootstrap.min.js"></script>
+		<!-- Style Switcher -->
 
-<!-- Style Switcher -->
+		<script type="text/javascript" src="js/style-switcher.js"></script>
 
-<script type="text/javascript" src="js/style-switcher.js"></script>
+		<!-- Owl Carousel -->
 
-<!-- Owl Carousel -->
+		<script type="text/javascript" src="js/owl.carousel.js"></script>
 
-<script type="text/javascript" src="js/owl.carousel.js"></script>
+		<!-- PrettyPhoto -->
 
-<!-- PrettyPhoto -->
+		<script type="text/javascript" src="js/jquery.prettyPhoto.js"></script>
 
-<script type="text/javascript" src="js/jquery.prettyPhoto.js"></script>
+		<!-- Bxslider -->
 
-<!-- Bxslider -->
+		<script type="text/javascript" src="js/jquery.flexslider.js"></script>
 
-<script type="text/javascript" src="js/jquery.flexslider.js"></script>
+		<!-- Owl Carousel -->
 
-<!-- Owl Carousel -->
+		<script type="text/javascript" src="js/cd-hero.js"></script>
 
-<script type="text/javascript" src="js/cd-hero.js"></script>
+		<!-- Isotope -->
 
-<!-- Isotope -->
+		<script type="text/javascript" src="js/isotope.js"></script>
 
-<script type="text/javascript" src="js/isotope.js"></script>
+		<script type="text/javascript" src="js/ini.isotope.js"></script>
 
-<script type="text/javascript" src="js/ini.isotope.js"></script>
+		<!-- Wow Animation -->
 
-<!-- Wow Animation -->
+		<script type="text/javascript" src="js/wow.min.js"></script>
 
-<script type="text/javascript" src="js/wow.min.js"></script>
+		<!-- SmoothScroll -->
 
-<!-- SmoothScroll -->
+		<script type="text/javascript" src="js/smoothscroll.js"></script>
 
-<script type="text/javascript" src="js/smoothscroll.js"></script>
+		<!-- Eeasing -->
 
-<!-- Eeasing -->
+		<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
 
-<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+		<!-- Counter -->
 
-<!-- Counter -->
+		<script type="text/javascript" src="js/jquery.counterup.min.js"></script>
 
-<script type="text/javascript" src="js/jquery.counterup.min.js"></script>
+		<!-- Waypoints -->
 
-<!-- Waypoints -->
+		<script type="text/javascript" src="js/waypoints.min.js"></script>
 
-<script type="text/javascript" src="js/waypoints.min.js"></script>
+		<!-- Template custom -->
 
-<!-- Template custom -->
+		<script type="text/javascript" src="js/custom.js"></script>
 
-<script type="text/javascript" src="js/custom.js"></script>
-
-</div><!-- Body inner end -->
+	</div><!-- Body inner end -->
 
 </body>
 

@@ -10,13 +10,13 @@
 
 		================================================== -->
 
-		<meta charset="utf-8">
+	<meta charset="utf-8">
 
-		<title>Hospitality</title>
+	<title>Hospitality</title>
 
-		<meta name="description" content="">	
+	<meta name="description" content="">
 
-		<meta name="author" content="">
+	<meta name="author" content="">
 
 
 
@@ -24,7 +24,7 @@
 
 		================================================== -->
 
-		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
 
 
@@ -32,69 +32,69 @@
 
 		================================================== -->
 
-		<link rel="icon" href="img/favicon/favicon-32x32.png" type="image/x-icon" />
+	<link rel="icon" href="img/favicon/favicon-32x32.png" type="image/x-icon" />
 
-		<link rel="apple-touch-icon-precomposed" sizes="144x144" href="img/favicon/favicon-144x144.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="img/favicon/favicon-144x144.png">
 
-		<link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/favicon/favicon-72x72.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/favicon/favicon-72x72.png">
 
-		<link rel="apple-touch-icon-precomposed" href="img/favicon/favicon-54x54.png">
+	<link rel="apple-touch-icon-precomposed" href="img/favicon/favicon-54x54.png">
 
-		<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
 	<!-- CSS
 
 		================================================== -->
 
-		
-
-		<!-- Bootstrap -->
-
-		<link rel="stylesheet" href="css/bootstrap.min.css">
-
-		<!-- Template styles-->
-
-		<link rel="stylesheet" href="css/style.css">
-
-		<!-- Responsive styles-->
-
-		<link rel="stylesheet" href="css/responsive.css">
-
-		<!-- FontAwesome -->
-
-		<link rel="stylesheet" href="css/font-awesome.min.css">
-
-		<!-- Animation -->
-
-		<link rel="stylesheet" href="css/animate.css">
-
-		<!-- Prettyphoto -->
-
-		<link rel="stylesheet" href="css/prettyPhoto.css">
-
-		<!-- Owl Carousel -->
-
-		<link rel="stylesheet" href="css/owl.carousel.css">
-
-		<link rel="stylesheet" href="css/owl.theme.css">
-
-		<!-- Flexslider -->
-
-		<link rel="stylesheet" href="css/flexslider.css">
-
-		<!-- Flexslider -->
-
-		<link rel="stylesheet" href="css/cd-hero.css">
-
-		<!-- Style Swicther -->
-
-		<link id="style-switch" href="css/presets/preset3.css" media="screen" rel="stylesheet" type="text/css">
 
 
+	<!-- Bootstrap -->
 
-		<!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
+	<link rel="stylesheet" href="css/bootstrap.min.css">
 
-    <!--[if lt IE 9]>
+	<!-- Template styles-->
+
+	<link rel="stylesheet" href="css/style.css">
+
+	<!-- Responsive styles-->
+
+	<link rel="stylesheet" href="css/responsive.css">
+
+	<!-- FontAwesome -->
+
+	<link rel="stylesheet" href="css/font-awesome.min.css">
+
+	<!-- Animation -->
+
+	<link rel="stylesheet" href="css/animate.css">
+
+	<!-- Prettyphoto -->
+
+	<link rel="stylesheet" href="css/prettyPhoto.css">
+
+	<!-- Owl Carousel -->
+
+	<link rel="stylesheet" href="css/owl.carousel.css">
+
+	<link rel="stylesheet" href="css/owl.theme.css">
+
+	<!-- Flexslider -->
+
+	<link rel="stylesheet" href="css/flexslider.css">
+
+	<!-- Flexslider -->
+
+	<link rel="stylesheet" href="css/cd-hero.css">
+
+	<!-- Style Swicther -->
+
+	<link id="style-switch" href="css/presets/preset3.css" media="screen" rel="stylesheet" type="text/css">
+
+
+
+	<!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
+
+	<!--[if lt IE 9]>
 
       <script src="js/html5shiv.js"></script>
 
@@ -120,7 +120,7 @@
 
 		<div id="banner-area">
 
-			<img src="images/banner/banner1.jpg" alt ="" />
+			<img src="images/banner/banner1.jpg" alt="" />
 
 			<div class="parallax-overlay"></div>
 
@@ -196,9 +196,9 @@
 
 						<br>
 
-						<p>The hospitality and catering industry in the UK has never experienced anything like this lockdown before, and it is hard to predict 		when (and if) it will return to “business as usual”.
+						<p>The hospitality and catering industry in the UK has never experienced anything like this lockdown before, and it is hard to predict when (and if) it will return to “business as usual”.
 
-						Therefore, currently, there aren’t as many new job openings in this sector as before. Hospitality recruitment agencies data shows that many people are being furloughed or have lost their jobs altogether. Restaurants that are able to provide take-away and pick-up services are running on skeleton staff.</p>
+							Therefore, currently, there aren’t as many new job openings in this sector as before. Hospitality recruitment agencies data shows that many people are being furloughed or have lost their jobs altogether. Restaurants that are able to provide take-away and pick-up services are running on skeleton staff.</p>
 
 						<p>Nevertheless, as lockdown is gradually being lifted in other countries, we can start looking at how they are addressing safety issues and starting to build the so-called “new normal”. This can help us get an idea of the possible routes the UK could pursue in the future, in order to reopen businesses without triggering dangerous outbreaks.</p>
 
@@ -210,7 +210,7 @@
 
 									<div class="w3-content w3-section" style="max-width:1100px">
 
-										
+
 
 										<img class="mySlides" src="images/slider/0.jpg" style="width:100%">
 
@@ -222,9 +222,9 @@
 
 										<img class="mySlides" src="images/slider/00000.jpg" style="width:100%">
 
-										
 
-										
+
+
 
 									</div>
 
@@ -247,7 +247,7 @@
 							tables must be arranged in such a way as to ensure social distancing: physical barriers such as plexiglass sheets may be placed in order to attain this;
 							plexiglass sheets must also be placed in front of the cash desk. When this is not possible, staff must use PPE (personal protective equipment – e.g. disposable masks, gloves, etc.) instead;
 							waiters will have to wear masks and use hand sanitiser before serving each table;
-						recirculating air in an enclosed space through ventilation systems is recognised as a health risk, and should therefore be avoided.</p>
+							recirculating air in an enclosed space through ventilation systems is recognised as a health risk, and should therefore be avoided.</p>
 						<p>Keeping windows open is advised instead;
 							where possible, outdoor seating will be encouraged;
 							self-service buffets are not allowed;
@@ -262,29 +262,31 @@
 
 						<p>While waiters may not be in high-demand at the moment for obvious reasons, there’s a certain demand for Cooks and Hospitality Assistants in care homes.
 
-						Catering and Restaurant Manager positions are also quite sought-after. Other current job vacancies include Receptionists and Bookkeepers.</p>
+							Catering and Restaurant Manager positions are also quite sought-after. Other current job vacancies include Receptionists and Bookkeepers.</p>
 
-						
 
-						
 
-						
 
-						
 
-						
 
-						
 
-					</div><!--/ About message end -->
+
+
+
+
+
+
+					</div>
+					<!--/ About message end -->
 
 					<!--/ About image end -->
 
-				</div><!--/ Content row end -->
+				</div>
+				<!--/ Content row end -->
 
 
 
-				
+
 
 
 
@@ -292,11 +294,12 @@
 
 
 
-			</div><!--/ 1st container end -->
+			</div>
+			<!--/ 1st container end -->
 
 
 
-			
+
 
 			<div class="gap-60"></div>
 
@@ -324,7 +327,7 @@
 
 							</div>
 
-							<h3>Candidates</h3> 
+							<h3>Candidates</h3>
 
 						</div>
 
@@ -340,7 +343,7 @@
 
 							</div>
 
-							<h3>Recruitments</h3> 
+							<h3>Recruitments</h3>
 
 						</div>
 
@@ -356,7 +359,7 @@
 
 							</div>
 
-							<h3>Jobs</h3> 
+							<h3>Jobs</h3>
 
 						</div>
 
@@ -372,312 +375,50 @@
 
 							</div>
 
-							<h3>Awwards</h3> 
+							<h3>Awwards</h3>
 
 						</div>
 
 
 
-						
-
-
-
-						
-
-
-
-					</div><!--/ row end -->
-
-				</div><!--/ Container end -->
-
-			</div><!--/ Counter end -->
-
-
-
-			
-
-			
-
-		</section><!--/ Main container end -->
-
-		
 
 
 
 
 
-		
 
+
+
+					</div>
+					<!--/ row end -->
+
+				</div>
+				<!--/ Container end -->
+
+			</div>
+			<!--/ Counter end -->
+
+
+
+
+
+
+
+		</section>
+		<!--/ Main container end -->
 
 
 		<!-- Footer start -->
+		<?php include('footer.php'); ?>
+		<!--/ Footer end -->
 
-		<footer id="footer" class="footer">
 
-			<div class="container">
 
-				<div class="row">
-
-					<div class="col-md-4 col-sm-12 footer-widget">
-
-						
-
-						<a href="index.html">
-
-							<img class="img-responsive" src="images/logo.png" alt="logo">
-
-						</a>  <br>  
-
-						<p>  Temping Agency is a privately owned recruitment agency based in Central London, W1 area andÂ Established as part of the Workers Direct Group in 2010, TA has delivered excellent recruitment and employment services to clients in a variety of industries.<br> <br>Our services include recruitment, selection, placement, contract and temporary workers and our consultants are highly trained and experienced to deal with each step of the process. </p>
-
-						
-
-						<!-- 1st Latest Post end -->
-
-
-
-						<!-- 2nd Latest Post end -->
-
-
-
-						<!-- 3rd Latest Post end -->
-
-						
-
-					</div><!--/ End Recent Posts-->
-
-					
-
-
-
-					<div class="col-md-4 col-sm-12 footer-widget">
-
-						<h3 class="widget-title">Flickr Photos</h3>
-
-
-
-						<div class="img-gallery">
-
-							<div class="img-container">
-
-								<a class="thumb-holder" data-rel="prettyPhoto" href="images/gallery/1.jpg">
-
-									<img src="images/gallery/1.jpg" alt="">
-
-								</a>
-
-								<a class="thumb-holder" data-rel="prettyPhoto" href="images/gallery/2.jpg">
-
-									<img src="images/gallery/2.jpg" alt="">
-
-								</a>
-
-								<a class="thumb-holder" data-rel="prettyPhoto" href="images/gallery/3.jpg">
-
-									<img src="images/gallery/3.jpg" alt="">
-
-								</a>
-
-								<a class="thumb-holder" data-rel="prettyPhoto" href="images/gallery/4.jpg">
-
-									<img src="images/gallery/4.jpg" alt="">
-
-								</a>
-
-								<a class="thumb-holder" data-rel="prettyPhoto" href="images/gallery/5.jpg">
-
-									<img src="images/gallery/5.jpg" alt="">
-
-								</a>
-
-								<a class="thumb-holder" data-rel="prettyPhoto" href="images/gallery/6.jpg">
-
-									<img src="images/gallery/6.jpg" alt="">
-
-								</a>
-
-								<a class="thumb-holder" data-rel="prettyPhoto" href="images/gallery/6.jpg">
-
-									<img src="images/gallery/7.jpg" alt="">
-
-								</a>
-
-								<a class="thumb-holder" data-rel="prettyPhoto" href="images/gallery/6.jpg">
-
-									<img src="images/gallery/8.jpg" alt="">
-
-								</a>
-
-								<a class="thumb-holder" data-rel="prettyPhoto" href="images/gallery/6.jpg">
-
-									<img src="images/gallery/9.jpg" alt="">
-
-								</a>
-
-							</div>
-
-						</div>
-
-					</div><!--/ end flickr -->
-
-
-
-					<div class="col-md-3 col-sm-12 footer-widget footer-about-us">
-
-						<h3 class="widget-title">About Craft</h3>
-
-						
-
-						<h4>Address</h4>
-
-						<p>344-348 High road, Ilford IG1 1QP  </p>
-
-						
-
-						
-
-						<h4>Email:</h4>
-
-						<p>info@temping-agency.com</p>
-
-						
-
-						
-
-						<h4>Phone No.</h4>
-
-						<p>+44 (0) 2030 869080</p>
-
-						
-
-						
-
-						<form action="#" role="form">
-
-							<div class="input-group subscribe">
-
-								<input type="email" class="form-control" placeholder="Email Address" required="">
-
-								<span class="input-group-addon">
-
-									<button class="btn" type="submit"><i class="fa fa-envelope-o"> </i></button>
-
-								</span>                        
-
-							</div>
-
-						</form>
-
-					</div><!--/ end about us -->
-
-
-
-				</div><!-- Row end -->
-
-			</div><!-- Container end -->
-
-		</footer><!-- Footer end -->
-
-		
-
-
-
-		<!-- Copyright start -->
-
-		<section id="copyright" class="copyright angle">
-
-			<div class="container">
-
-				<div class="row">
-
-					<div class="col-md-12 text-center">
-
-						<ul class="footer-social unstyled">
-
-							<li>
-
-								<a title="Twitter" href="#">
-
-									<span class="icon-pentagon wow bounceIn"><i class="fa fa-twitter"></i></span>
-
-								</a>
-
-								<a title="Facebook" href="#">
-
-									<span class="icon-pentagon wow bounceIn"><i class="fa fa-facebook"></i></span>
-
-								</a>
-
-								<a title="Google+" href="#">
-
-									<span class="icon-pentagon wow bounceIn"><i class="fa fa-google-plus"></i></span>
-
-								</a>
-
-								<a title="linkedin" href="#">
-
-									<span class="icon-pentagon wow bounceIn"><i class="fa fa-linkedin"></i></span>
-
-								</a>
-
-								<a title="Pinterest" href="#">
-
-									<span class="icon-pentagon wow bounceIn"><i class="fa fa-pinterest"></i></span>
-
-								</a>
-
-								<a title="Skype" href="#">
-
-									<span class="icon-pentagon wow bounceIn"><i class="fa fa-skype"></i></span>
-
-								</a>
-
-								<a title="Dribble" href="#">
-
-									<span class="icon-pentagon wow bounceIn"><i class="fa fa-dribbble"></i></span>
-
-								</a>
-
-							</li>
-
-						</ul>
-
-					</div>
-
-				</div><!--/ Row end -->
-
-				<div class="row">
-
-					<div class="col-md-12 text-center">
-
-						<div class="copyright-info">
-
-							&copy; Copyright 2019 Temping Agency <span>Design & Developed by <a href="https://mstdevelopers.com">MST Developers</a></span>
-
-						</div>
-
-					</div>
-
-				</div><!--/ Row end -->
-
-				<div id="back-to-top" data-spy="affix" data-offset-top="10" class="back-to-top affix">
-
-					<button class="btn btn-primary" title="Back to Top"><i class="fa fa-angle-double-up"></i></button>
-
-				</div>
-
-			</div><!--/ Container end -->
-
-		</section><!--/ Copyright end -->
-
-
-
-	<!-- Javascript Files
+		<!-- Javascript Files
 
 		================================================== -->
 
 		<script>
-
 			var myIndex = 0;
 
 			carousel();
@@ -692,81 +433,82 @@
 
 				for (i = 0; i < x.length; i++) {
 
-					x[i].style.display = "none";  
+					x[i].style.display = "none";
 
 				}
 
 				myIndex++;
 
-				if (myIndex > x.length) {myIndex = 1}    
+				if (myIndex > x.length) {
+					myIndex = 1
+				}
 
-					x[myIndex-1].style.display = "block";  
+				x[myIndex - 1].style.display = "block";
 
-  setTimeout(carousel, 2000); // Change image every 2 seconds
+				setTimeout(carousel, 2000); // Change image every 2 seconds
 
-}
+			}
+		</script>
 
-</script>
+		<!-- initialize jQuery Library -->
 
-<!-- initialize jQuery Library -->
+		<script type="text/javascript" src="js/jquery.js"></script>
 
-<script type="text/javascript" src="js/jquery.js"></script>
+		<!-- Bootstrap jQuery -->
 
-<!-- Bootstrap jQuery -->
+		<script type="text/javascript" src="js/bootstrap.min.js"></script>
 
-<script type="text/javascript" src="js/bootstrap.min.js"></script>
+		<!-- Style Switcher -->
 
-<!-- Style Switcher -->
+		<script type="text/javascript" src="js/style-switcher.js"></script>
 
-<script type="text/javascript" src="js/style-switcher.js"></script>
+		<!-- Owl Carousel -->
 
-<!-- Owl Carousel -->
+		<script type="text/javascript" src="js/owl.carousel.js"></script>
 
-<script type="text/javascript" src="js/owl.carousel.js"></script>
+		<!-- PrettyPhoto -->
 
-<!-- PrettyPhoto -->
+		<script type="text/javascript" src="js/jquery.prettyPhoto.js"></script>
 
-<script type="text/javascript" src="js/jquery.prettyPhoto.js"></script>
+		<!-- Bxslider -->
 
-<!-- Bxslider -->
+		<script type="text/javascript" src="js/jquery.flexslider.js"></script>
 
-<script type="text/javascript" src="js/jquery.flexslider.js"></script>
+		<!-- Owl Carousel -->
 
-<!-- Owl Carousel -->
+		<script type="text/javascript" src="js/cd-hero.js"></script>
 
-<script type="text/javascript" src="js/cd-hero.js"></script>
+		<!-- Isotope -->
 
-<!-- Isotope -->
+		<script type="text/javascript" src="js/isotope.js"></script>
 
-<script type="text/javascript" src="js/isotope.js"></script>
+		<script type="text/javascript" src="js/ini.isotope.js"></script>
 
-<script type="text/javascript" src="js/ini.isotope.js"></script>
+		<!-- Wow Animation -->
 
-<!-- Wow Animation -->
+		<script type="text/javascript" src="js/wow.min.js"></script>
 
-<script type="text/javascript" src="js/wow.min.js"></script>
+		<!-- SmoothScroll -->
 
-<!-- SmoothScroll -->
+		<script type="text/javascript" src="js/smoothscroll.js"></script>
 
-<script type="text/javascript" src="js/smoothscroll.js"></script>
+		<!-- Eeasing -->
 
-<!-- Eeasing -->
+		<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
 
-<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+		<!-- Counter -->
 
-<!-- Counter -->
+		<script type="text/javascript" src="js/jquery.counterup.min.js"></script>
 
-<script type="text/javascript" src="js/jquery.counterup.min.js"></script>
+		<!-- Waypoints -->
 
-<!-- Waypoints -->
+		<script type="text/javascript" src="js/waypoints.min.js"></script>
 
-<script type="text/javascript" src="js/waypoints.min.js"></script>
+		<!-- Template custom -->
 
-<!-- Template custom -->
+		<script type="text/javascript" src="js/custom.js"></script>
 
-<script type="text/javascript" src="js/custom.js"></script>
-
-</div><!-- Body inner end -->
+	</div><!-- Body inner end -->
 
 </body>
 

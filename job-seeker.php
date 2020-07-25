@@ -12,7 +12,7 @@
 
     <meta charset="utf-8">
 
-    <title>Hire Temporary Staff</title>
+    <title>Job Seeker</title>
 
     <meta name="description" content="">
 
@@ -130,7 +130,7 @@
 
                 <div class="text-center">
 
-                    <h2> Hire Temporary Staff </h2>
+                    <h2>Job Seeker</h2>
 
                     <ul class="breadcrumb">
 
@@ -138,7 +138,7 @@
 
                         <li>Services</li>
 
-                        <li> Hire Temporary Staff </li>
+                        <li>Job Seeker</li>
 
                     </ul>
 
@@ -168,7 +168,7 @@
 
                     <div class="col-md-12 heading text-center">
 
-                        <h2 class="title2">Hire Temporary Staff
+                        <h2 class="title2">Job Seeker
 
                             <span class="title-desc"> Temping Agency </span>
 
@@ -183,86 +183,92 @@
                 <div class="row about-wrapper-top">
 
                     <div class="col-md-12 ts-padding about-message">
-
-                        <h3> Choosing a Temp over a full-time employee </h3>
-
-                        <br>
-
-                        <p>Are you needs temporary staff? Call temping agency for temporary staffing solution.</p>
-
-                        <p>Companies often face a dilemma when it comes to appointing a new employee. There are many options and pros and cons to these options. Two of the main considerations are either appointing a full-time employee or contract in a temp. Of course each has its own advantages and disadvantages as illustrated below:</p>
-
-                        <br>
-
-                        <h3>Full-time employee:</h3>
-
-                        <br>
-                        <ul class="list-group list-group-flush">
-                            <li class="list-group-item">Expensive recruitment process</li>
-                            <li class="list-group-item">Regular salary</li>
-                            <li class="list-group-item">Statutory taxes and deductions</li>
-                            <li class="list-group-item">Statutory leave e.g. sick leave / annual leave etc.</li>
-                            <li class="list-group-item">Disciplinary process to manage performance</li>
-                        </ul>
-
-                        <br>
-
-                        <h3>Temp employee:</h3>
-
-                        <br>
-
-                        <ul class="list-group list-group-flush">
-                            <li class="list-group-item">The Temping Agency will have done all the recruitment interviews and checks</li>
-                            <li class="list-group-item">You only pay for the hours that the temp actually works</li>
-                            <li class="list-group-item">Any statutory deductions and requirements are managed by the temp agencies</li>
-                            <li class="list-group-item">If there is any performance or disciplinary issues, the temping agency will
-                                immediately replace the troublesome temp with a new temp. The agency will then take the necessary action
-                                where appropriate.</li>
-                        </ul>
-                        <section>
-
-                            <div class="container">
-
-                                <div class="row">
-
-                                    <div class="w3-content w3-section" style="max-width:1100px">
-
-
-
-                                        <img class="mySlides" src="images/slider/0.jpg" style="width:100%">
-
-                                        <img class="mySlides" src="images/slider/00.jpg" style="width:100%">
-
-                                        <img class="mySlides" src="images/slider/000.jpg" style="width:100%">
-
-                                        <img class="mySlides" src="images/slider/0000.jpg" style="width:100%">
-
-                                        <img class="mySlides" src="images/slider/00000.jpg" style="width:100%">
-
-
-
-
-
-                                    </div>
-
-                                </div>
-
+                        <div class="row">
+                            <div class="col-md-12">
+                                <h3 style="text-align: center;">Facts & Figures</h3>
                             </div>
-
-                        </section>
-
-                        <h3>Why Agency Temps?</h3>
+                            <div class="col-md-4">
+                                <h4>Relevant Experience</h4>
+                                <p>We make sure all our operatvies Must have minimum 1 - 2 years relevant Experience.</p>
+                                <a href="#">Learn More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+                            </div>
+                            <div class="col-md-4">
+                                <h4>
+                                    24/7 Availability</h4>
+                                <p>Our Customer Service staff available online & on phone 24/7 to fill any urgent vacancy.</p>
+                                <a href="#">Learn More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+                            </div>
+                            <div class="col-md-4">
+                                <h4>Flexible & Reliable</h4>
+                                <p>All our temps are fully able to start on short noitce whenever require.</p>
+                                <a href="#">Learn More <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+                            </div>
+                            <div class="col-md-4">
+                                <h1>1000+</h1>
+                                <p>More than 1,000 job seekers got their expected jobs by Labourer Agency.</p>
+                            </div>
+                            <div class="col-md-4">
+                                <h1>10,000+</h1>
+                                <p>Labourer Agency has grown to a team of more than 10,000 talented individuals.</p>
+                            </div>
+                            <div class="col-md-4">
+                                <h1>Millions</h1>
+                                <p>Since opening, millions of Job Seekers have been registered with Labourer Agency.</p>
+                            </div>
+                        </div>
+                        <br>
+                        <h3>Job Seeker</h3>
 
                         <br>
 
-                        <p>An agency temp usually comes with a replacement guarantee from the temping agency. This is very pleasing to a company. Once a permanent employee has been appointed, it is very difficult to dismiss them for any infringement in the workplace. Disciplinary processes can be very drawn out and eventually expensive if a moderator from outside the company has to be appointed.</p>
-                        <p>Taking a temp on board is a more satisfying option for the company. It saves time and money for the company and gives it the reassurance that the employee will perform to the right standard. A permanent employee is only an option when a specific skill and expertise is required. These the company hang onto at all costs.</p>
-                        <p>With temping agency companies have the security of top-class temporary employees. We provide properly and expertly interviewed temps. Our consultants are professionals with in-depth knowledge of their field of expertise and they will know whether a potential candidate will suit the client’s requirements. If s/he does, the candidate is introduced to the client and s/he will start working shortly after that.</p>
-                        <p>The process with a permanent employee is a little more drawn out. Unlike the temp agency, candidates for a permanent position have to go through several levels of interviews and tests. Then there’s the shortlisting process and another round of interviews. This is followed by background and reference checks. In the meantime the work that the candidate has to do is piling up with no-one to do it.</p>
-                        <p>One call to a temping agency can solve this problem. The temp can be used for the period that it takes to find a permanent employee, or the temp may also be offered the permanent position due to his / her competence in the job.</p>
-                        <p>Here Temping Agency helps the employer to draft a suitable contract and also helps the candidate go through the contract in detail before s/he makes up his / her mind. Once agreement is reached, the candidate is converted from temp status to perm status and the agency collects a placement fee.</p>
-                        <p>Companies choose temp for the convenience of managing the whole performance and recruitment process.</p>
+                        <p>Unlike many other recruitment agencies, at Labourer Agency UK, we definitely don’t believe that clients are more
+                            important than our candidates. We strongly believe that our candidates are important and deserve the best service
+                            we can offer, after all, where would we be without you!</p>
 
+                        <p>We provide the following services to our job seekers.</p>
+
+                        <br>
+
+                        <h3> Quick Turnaround </h3>
+
+                        <br>
+
+                        <p>We won’t leave you hanging around waiting for a phone call after you make your application. We will ensure we get
+                            back to you quickly, no matter what the outcome of your application.</p>
+
+                        <h3> Regular Contact </h3>
+
+                        <br>
+
+                        <p>We understand the importance of building a strong and lasting relationship with our candidates, which is why we will
+                            always keep in regular contact with you. We will do this throughout the recruitment process and when you start a
+                            job, just to ensure you are getting on well. We will always endeavour to get back to you quickly with any
+                            questions you may have.</p>
+
+                        <br>
+
+                        <h3> Advice and Support </h3>
+
+                        <br>
+
+                        <p>The job searching process can be quite daunting, especially if you don’t have much experience with it and we want
+                            to make it easier for you by providing ongoing advice and support. We will offer guidance on your CV and interview
+                            skills, to help ensure you perform as well as possible at interview stage.
+                        </p>
+
+                        <br>
+
+                        <h3> Feedback </h3>
+
+                        <br>
+
+                        <p>There is nothing worse than applying for a job or attending an interview and not hearing anything back. It can be
+                            very frustrating and this is why we will always provide you with feedback, regardless of the outcome.
+                        </p>
+
+                        <p>We know how important it is for your development and believe it is only fair when you have went to the effort to apply or attend interview.</p>
+
+                        <p>We will talk you through your feedback and offer any support you might need to improve in the future and for other interviews.</p>
                     </div>
                     <!--/ About message end -->
 
@@ -394,12 +400,9 @@
         </section>
         <!--/ Main container end -->
 
-
-
         <!-- Footer start -->
         <?php include('footer.php'); ?>
         <!--/ Footer end -->
-
 
         <!-- Javascript Files
 
