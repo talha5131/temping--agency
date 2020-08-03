@@ -116,10 +116,10 @@
 		$('#valid').on('click', function() {
 			const ans = captcha.valid($('input[name="code"]').val());
 			if (ans) {
-				// button.prop('disabled', false);
+				button.prop('disabled', false);
 				$('.captcha').hide();
 			} else {
-				// button.prop('disabled', true);
+				button.prop('disabled', true);
 			}
 		})
 
