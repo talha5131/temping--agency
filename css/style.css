@@ -199,7 +199,7 @@ h5{
 .btn.btn-primary{
 	color: #323232;
 	border-radius: 50px;
-	padding: 10px 30px;
+	padding: 7px 20px;
 	background: none;
 	font-size: 14px;
 	text-transform: uppercase;
@@ -723,7 +723,7 @@ blockquote {
  ul.navbar-nav > li > a{
  	font-family: 'JaapokkiRegular';
  	text-transform: uppercase;
- 	font-size: 14px;
+ 	font-size: 13px;
  	color: #fff;
  	padding-top: 22px;
  	padding-bottom: 15px;
@@ -3384,7 +3384,7 @@ a.close-styler{
 	overflow: hidden;
 	padding: 30px;
 	position: absolute;
-	left: -400px;
+	left: -550px;
 	height: auto;
 	max-height: 580px;
 	overflow-x: hidden;
@@ -3426,7 +3426,7 @@ body {
 	margin-left: 11.5%;
 }
 ul.nav-mid-content li{
-	margin-left: 17px;
+	/*margin-left: 17px;*/
 }
 
 .header-solid ul.navbar-nav > li:hover > a, .header-solid ul.navbar-nav > li.active > a {

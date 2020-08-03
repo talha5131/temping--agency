@@ -15,9 +15,9 @@
 				<div class="container-fluid">
 					<div class="row">
 						<div class="col-md-12">
-							<ul class="nav navbar-nav navbar-left nav-top-content" style="">
+							<ul class="nav navbar-nav navbar-left nav-top-content" style="margin-left: 5%">
 								<li class="">
-									<a href="#" style=" color: white;">CALL US <strong>02030868984</strong></a>
+									<a href="#" style=" color: white;">CALL US <strong>+442030869080</strong></a>
 								</li>
 								<li class="">
 									<a href="cv-upload.php"  style=" color: white;">Get A Quote</a>
@@ -29,27 +29,26 @@
 							<div class="nav-top-content navbar-right" style="margin-right: 5%;">
 								<ul class="nav navbar-nav">
 									<li class="">
-										<a href="employer.php" class="btn btn-primary cd-btn" style="padding-right: 27px; margin-top: 10px;
-										margin-left: -65px; color: white;">Employer</a>
+										<a href="employer.php" class="btn btn-primary cd-btn" style="margin-top: 10px; color: white; font-size: 11px">Employer</a>
 									</li>
 									<li class="">
-										<a href="job-seeker.php" class="btn btn-primary cd-btn" style="padding-right: 27px;margin-top: 10px;margin-left: 10px; color: white;">Job Seeker</a>
+										<a href="job-seeker.php" class="btn btn-primary cd-btn" style="margin-top: 10px; margin-left: 5px; color: white; font-size: 11px">Job Seeker</a>
 									</li>
 									<li class="">
-										<a href="cv-upload.php" class="btn btn-primary cd-btn" style="padding-right: 27px; margin-top: 10px;
-										margin-left: 10px; color: white;">CV Upload</a>
+										<a href="cv-upload.php" class="btn btn-primary cd-btn" style="margin-top: 10px;
+										margin-left: 5px; color: white; font-size: 11px">CV Upload</a>
 									</li>
 									<li class="">
-										<a href="post-a-job.php" class="btn btn-primary cd-btn" style="padding-right: 27px;margin-top: 10px;margin-left: 10px; color: white;">Post A Job</a>
+										<a href="post-a-job.php" class="btn btn-primary cd-btn" style="margin-top: 10px; margin-left: 5px; color: white; font-size: 11px">Post A Job</a>
 									</li>
 									<li class="">
-										<a href="#" class="btn btn-primary cd-btn" style="padding-right: 27px; margin-top: 10px;
-										margin-left: 10px; color: white;" data-toggle="modal" data-target="#modalRegisterLogin">Register/Login</a>
+										<a href="#" class="btn btn-primary cd-btn" style="padding-right:15px; margin-top: 10px;
+										margin-left: 5px; color: white; font-size: 11px; padding-left: 17px" data-toggle="modal" data-target="#modalRegisterLogin">Register/Login</a>
 									</li>
 								</ul>
 							</div>
 						</div>
-						<div class="col-md-12">
+						<div class="col-md-12" style="margin-top: 5%; margin-bottom: 5%;">
 							<!-- Logo start -->
 							<div class="">
 								<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -58,14 +57,14 @@
 									<span class="icon-bar"></span>
 									<span class="icon-bar"></span>
 								</button>
-								<div class="" style="position: absolute;top: 50px;">
+								<div class="" style="position: absolute;top: 0px; margin-left: 6%;">
 									<a href="index.php">
 										<img class="img-responsive" src="images/logo.png" alt="logo">
 									</a>
 								</div>
 							</div>
 							<!--/ Logo end -->
-							<ul class="nav navbar-nav navbar-left nav-mid-content">
+							<ul class="nav navbar-nav navbar-left nav-mid-content" style="margin-left: 27%; margin-right: 5%">
 								<li class="active"><a href="index.php">Home </a></li>
 								<li><a href="about2.php">About Us</a></li>
 								<li><a href="why-us.php">Why Us</a></li>
@@ -127,12 +126,12 @@
 									</div>
 								</li>
 								<li><a href="testimonial.php">Testimonials</a></li>
+								<li>
+									<a href="location.php">Location</a>
+								</li>
 								<li><a href="contact.php">Contact</a></li>
 								<li>
 									<a href="book-a-temp.php">Book A Temp</a>
-								</li>
-								<li>
-									<a href="location.php">Location</a>
 								</li>
 
 							</ul>
